@@ -1,5 +1,18 @@
 [
     {
+        "Item.id": "692",
+        "VariationSku.sku": "",
+        "ItemDescription.urlPath": "gummiband/6mm-8mm-10mm-gummiband-30m-set-schwartz-oder-weiss-gummilitze-gummikordel",
+        "ItemDescription.name": "6mm & 8mm & 10mm  Gummiband 30M Set. Schwartz oder Weiß Gummilitze Gummikordel",
+        "ItemDescription.name2": "6mm & 8mm & 10mm  Gummiband 30M Set. Schwartz oder Weiß Gummilitze Gummikordel",
+        "VariationCategory.allCategoryIds": "42",
+        "VariationCategory.allCategories": {
+            "Category1": "Gummiband"
+        },
+        "ItemDescription.description": "<p><span style=\"font-size:20px;\">6mm &amp; 8mm &amp; 10mm&nbsp; Gummiband 30M Set. Schwartz oder Weiß Gummilitze Gummikordel</span></p> <p><span style=\"color:#FF0000;\">1 X 6 mm 10 Meter&nbsp;</span></p> <p><span style=\"color:#FF0000;\">1 X 8 mm 10 Meter&nbsp;</span></p> <p><span style=\"color:#FF0000;\">1 X 10 mm 10 Meter&nbsp;</span></p> <p>&nbsp;Gummibänder bestehen aus Polyestergarn und Naturkautschuklatex.<br>&nbsp;Die Materialmenge beträgt 60% Polyestergarn (PES) und 30% Naturkautschuklatex (ED).<br>&nbsp;Unsere Produkte haben mehrere Qualitätszertifikate.&nbsp; Wir sind nach ISO 9001 zertifiziert, um den Standard in Bezug auf Kundenzufriedenheit und Qualitätsmanagement sicherzustellen.&nbsp; Außerdem verfügen wir über ISO 14001-Zertifizierungen, um den Standard des Umweltmanagementsystems sicherzustellen.&nbsp; Wir kümmern uns um Gesundheit und Sicherheit am Arbeitsplatz, um die Gesundheit unserer Mitarbeiter zu schützen.&nbsp; In dieser Richtung haben wir ISO 18001 OHSAS-Zertifikate.</p>",
+        "VariationSku.marketId": ""
+    },
+    {
         "Item.id": "712",
         "VariationSku.sku": "Golf_4",
         "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/auto-fussmatten-fuer-vw-golf-iv-1997-2004-passgenaue-mit-hohem-rand-c-a-5-cm",
@@ -6316,19 +6329,6 @@
             "Category1": "Gummiband"
         },
         "ItemDescription.description": "<p>&nbsp;</p> <p>1 X 30 mm 25 Meter&nbsp;Weiß&nbsp;</p> <p>&nbsp;Gummibänder bestehen aus Polyestergarn und Naturkautschuklatex.<br>&nbsp;Die Materialmenge beträgt 60% Polyestergarn (PES) und 30% Naturkautschuklatex (ED).<br>&nbsp;Unsere Produkte haben mehrere Qualitätszertifikate.&nbsp; Wir sind nach ISO 9001 zertifiziert, um den Standard in Bezug auf Kundenzufriedenheit und Qualitätsmanagement sicherzustellen.&nbsp; Außerdem verfügen wir über ISO 14001-Zertifizierungen, um den Standard des Umweltmanagementsystems sicherzustellen.&nbsp; Wir kümmern uns um Gesundheit und Sicherheit am Arbeitsplatz, um die Gesundheit unserer Mitarbeiter zu schützen.&nbsp; In dieser Richtung haben wir ISO 18001 OHSAS-Zertifikate.</p>",
-        "VariationSku.marketId": ""
-    },
-    {
-        "Item.id": "692",
-        "VariationSku.sku": "",
-        "ItemDescription.urlPath": "gummiband/6mm-8mm-10mm-gummiband-30m-set-schwartz-oder-weiss-gummilitze-gummikordel",
-        "ItemDescription.name": "6mm & 8mm & 10mm  Gummiband 30M Set. Schwartz oder Weiß Gummilitze Gummikordel",
-        "ItemDescription.name2": "6mm & 8mm & 10mm  Gummiband 30M Set. Schwartz oder Weiß Gummilitze Gummikordel",
-        "VariationCategory.allCategoryIds": "42",
-        "VariationCategory.allCategories": {
-            "Category1": "Gummiband"
-        },
-        "ItemDescription.description": "<p><span style=\"font-size:20px;\">6mm &amp; 8mm &amp; 10mm&nbsp; Gummiband 30M Set. Schwartz oder Weiß Gummilitze Gummikordel</span></p> <p><span style=\"color:#FF0000;\">1 X 6 mm 10 Meter&nbsp;</span></p> <p><span style=\"color:#FF0000;\">1 X 8 mm 10 Meter&nbsp;</span></p> <p><span style=\"color:#FF0000;\">1 X 10 mm 10 Meter&nbsp;</span></p> <p>&nbsp;Gummibänder bestehen aus Polyestergarn und Naturkautschuklatex.<br>&nbsp;Die Materialmenge beträgt 60% Polyestergarn (PES) und 30% Naturkautschuklatex (ED).<br>&nbsp;Unsere Produkte haben mehrere Qualitätszertifikate.&nbsp; Wir sind nach ISO 9001 zertifiziert, um den Standard in Bezug auf Kundenzufriedenheit und Qualitätsmanagement sicherzustellen.&nbsp; Außerdem verfügen wir über ISO 14001-Zertifizierungen, um den Standard des Umweltmanagementsystems sicherzustellen.&nbsp; Wir kümmern uns um Gesundheit und Sicherheit am Arbeitsplatz, um die Gesundheit unserer Mitarbeiter zu schützen.&nbsp; In dieser Richtung haben wir ISO 18001 OHSAS-Zertifikate.</p>",
         "VariationSku.marketId": ""
     },
     {
