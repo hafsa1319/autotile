@@ -1,5 +1,85 @@
 [
     {
+        "Item.id": "581",
+        "VariationSku.sku": "O_Corsa_F",
+        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/3d-gummimatten-auto-matten-fussmatten-fuer-opel-corsa-f-ab-2020-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "OPEL CORSA F ab 2020 Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  OPEL CORSA F ab 2020  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,227,302,306",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Opel",
+            "Category3": "Corsa",
+            "Category4": "F ( Seit 2019 )"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; OPEL CORSA F ab 2020&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: OPEL CORSA F ab 2020</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "576",
+        "VariationSku.sku": "R_Megane_4",
+        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/3d-auto-matten-fussmatten-fuer-renault-megane-iv-ab-2016-passgenaue-gummimatten",
+        "ItemDescription.name": "RENAULT MEGANE IV (ab 2016)  Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für RENAULT MEGANE IV (ab 2016) passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,230,354,357",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Renault",
+            "Category3": "Megane",
+            "Category4": "IV ( seit 2016 )"
+        },
+        "ItemDescription.description": "<ul>\t<li>Passend für:&nbsp;&nbsp;&nbsp;&nbsp;RENAULT MEGANE IV (ab 2016)</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "633",
+        "VariationSku.sku": "H_i20_2",
+        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-hyundai-i20-2-gen-ab-2015-passgenaue-gummimatten",
+        "ItemDescription.name": "HYUNDAI i20 (2. Gen.) ab 2015 Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI i20 (2. Gen.) ab 2015   passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,172,175,176",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Hyundai",
+            "Category3": "i20",
+            "Category4": "2. Gen (2014 - 2020)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI I20 (2. Gen.) ab 2015&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; HYUNDAI I20 (2. Gen.) ab 2015</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1347",
+        "VariationSku.sku": "RL_Astra_L",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-opel-astra-l-ab-2022-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit OPEL ASTRA L ab 2022 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit OPEL ASTRA L ab 2022 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,227,297,563",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Opel",
+            "Category3": "Astra",
+            "Category4": "L (2022 -- )"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;OPEL ASTRA L ab 2022</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "699",
+        "VariationSku.sku": "Q3_2011-2018",
+        "ItemDescription.urlPath": "autoteile-zubehoer/3d-gummimatten-auto-matten-fussmatten-fuer-audi-q3-8u-2011-2018-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "AUDI  Q3 8U (2011-2018)  Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  AUDI  Q3 8U (2011-2018) passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,46,65,66",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Audi",
+            "Category3": "Q3",
+            "Category4": "8U (2011 - 2018)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; AUDI&nbsp; Q3 8U (2011-2018)&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: <em><strong><span style=\"color:#FF0000;\">AUDI&nbsp; Q3 8U (2011-2018)&nbsp;</span></strong></em></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
         "Item.id": "1469",
         "VariationSku.sku": "TM_Golf_6",
         "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-golf-vi-2009-2012-auto-allwetter-gummimatten",
@@ -8099,22 +8179,6 @@
         "VariationSku.marketId": ""
     },
     {
-        "Item.id": "576",
-        "VariationSku.sku": "R_Megane_4",
-        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/3d-auto-matten-fussmatten-fuer-renault-megane-iv-ab-2016-passgenaue-gummimatten",
-        "ItemDescription.name": "RENAULT MEGANE IV (ab 2016)  Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für RENAULT MEGANE IV (ab 2016) passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,230,354,357",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Renault",
-            "Category3": "Megane",
-            "Category4": "IV ( seit 2016 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>Passend für:&nbsp;&nbsp;&nbsp;&nbsp;RENAULT MEGANE IV (ab 2016)</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1280",
         "VariationSku.sku": "RL_Niro_HYB",
         "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-kia-niro-hybrid-autofussmatten-auto-allwetter",
@@ -8187,70 +8251,6 @@
             "Category1": "Gummiband"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\">Gummiband, Gummikordel, Gummilitze, <span class=\"a-size-large product-title-word-break\" id=\"productTitle\" style=\"box-sizing: border-box; text-rendering: optimizelegibility; word-break: break-word; line-height: 32px !important;\">Gummizug,&nbsp;</span>Masken Gummiband, Schwarz, Weiß,&nbsp; (3mm, 5mm, 6mm,8 mm,1 0mm, 20mm, 30mm) Dicke, (5M, 10M, 25M, 100M) Länge</span></li>\t<li><span style=\"font-size:20px;\">Gummiprodukte sind nach OEKO-TEX ® nach STANDARD 100 zertifiziert.</span></li>\t<li><span style=\"font-size:20px;\">Weit verbreitet: Sie können flache Gummibänder in vielen Bereichen verwenden, z. B. in Masken, DIY-Projekten für medizinische Versorgung, Bettwäsche, Nähmaterialshorts, Röcke, Katzen- und Hundehalsbänder, Tagebücher, Stirnbänder, Unterwäsche, Schnürsenkel, Gürtel, Taillenbänder usw.</span></li>\t<li><span style=\"font-size:20px;\">Gute Elastizität: die Gummibänder behalten ihre Form und Elastizität auch bei hoher Beanspruchung der Elastizitätgrenze.</span></li>\t<li><span style=\"font-size:20px;\">Benutzerfreundlichkeit: Sie können die Gummibänder in jeder gewünschten Größe und formen schneiden .&nbsp; Da die Gummibänder aus hochwertigem Latex bestehen, behalten sie ihre Haltbarkeit und Flexibilität bei wiederholtem Gebrauch und sind Waschmaschinenfest&nbsp;</span></li>\t<li><span style=\"font-size:20px;\">Eigenschaften: Die Gummibänder sind extrem flexibel und langlebig.&nbsp; Es ist bequem und hautfreundlich . Die Gummibänder wird zum Verkauf als&nbsp; 5m, 10m und 25 Meter Karte und als 100 Meter Spulenwicklung angeboten.&nbsp; Es kann in weißen und schwarzen Farben bestellt werden .</span></li>\t<li><span style=\"font-size:20px;\">Unsere Produkte haben mehrere Qualitätszertifikate.&nbsp; Wir sind nach ISO 9001 zertifiziert, um den Standard in Bezug auf Kundenzufriedenheit und Qualitätsmanagement sicherzustellen.&nbsp; Außerdem verfügen wir über ISO 14001-Zertifizierungen, um den Standard des Umweltmanagementsystems sicherzustellen.&nbsp; Wir kümmern uns um Gesundheit und Sicherheit am Arbeitsplatz, um die Gesundheit unserer Mitarbeiter zu schützen.&nbsp; In dieser Richtung haben wir ISO 18001 OHSAS-Zertifikate.</span></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "699",
-        "VariationSku.sku": "Q3_2011-2018",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-gummimatten-auto-matten-fussmatten-fuer-audi-q3-8u-2011-2018-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "AUDI  Q3 8U (2011-2018)  Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  AUDI  Q3 8U (2011-2018) passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,46,65,66",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Audi",
-            "Category3": "Q3",
-            "Category4": "8U (2011 - 2018)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; AUDI&nbsp; Q3 8U (2011-2018)&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: <em><strong><span style=\"color:#FF0000;\">AUDI&nbsp; Q3 8U (2011-2018)&nbsp;</span></strong></em></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "581",
-        "VariationSku.sku": "O_Corsa_F",
-        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/3d-gummimatten-auto-matten-fussmatten-fuer-opel-corsa-f-ab-2020-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "OPEL CORSA F ab 2020 Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  OPEL CORSA F ab 2020  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,227,302,306",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Opel",
-            "Category3": "Corsa",
-            "Category4": "F ( Seit 2019 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; OPEL CORSA F ab 2020&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: OPEL CORSA F ab 2020</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "633",
-        "VariationSku.sku": "H_i20_2",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-hyundai-i20-2-gen-ab-2015-passgenaue-gummimatten",
-        "ItemDescription.name": "HYUNDAI i20 (2. Gen.) ab 2015 Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI i20 (2. Gen.) ab 2015   passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,172,175,176",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Hyundai",
-            "Category3": "i20",
-            "Category4": "2. Gen (2014 - 2020)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI I20 (2. Gen.) ab 2015&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; HYUNDAI I20 (2. Gen.) ab 2015</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1347",
-        "VariationSku.sku": "RL_Astra_L",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-opel-astra-l-ab-2022-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit OPEL ASTRA L ab 2022 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit OPEL ASTRA L ab 2022 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,227,297,563",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Opel",
-            "Category3": "Astra",
-            "Category4": "L (2022 -- )"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;OPEL ASTRA L ab 2022</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
