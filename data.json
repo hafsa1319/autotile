@@ -1,114 +1,66 @@
 [
     {
-        "Item.id": "730",
-        "VariationSku.sku": "A4_2008-15",
-        "ItemDescription.urlPath": "3d-gummimatten-auto-matten-fussmatten-fuer-audi-a4-b8-2008-2015-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "AUDI A4 (B8)  2008-2015  Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fußmatten für  AUDI A4 (B8)  2008-2015  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,46,48,62",
+        "Item.id": "285",
+        "VariationSku.sku": "rzfs_20",
+        "ItemDescription.urlPath": "rizline-3d-fussmatte-kompatible-mit-volkswagen-passat-b8",
+        "ItemDescription.name": "VW Passat B8 ab 2014 Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für VW Passat B8 ab 2014 passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,234,415,418",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Audi",
-            "Category3": "A4",
-            "Category4": "B8 (2008 - 2014)"
+            "Category2": "Volkswagen",
+            "Category3": "Passat",
+            "Category4": "B8 ( 2015 - 2021)"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für&nbsp; AUDI A4 (B8)&nbsp; 2008-2015&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"color:#FF0000;\">Passend für: AUDI A4 (B8)&nbsp;&nbsp;2008-2015</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li>Passend für: VW Passat B8 ab 2014, Skoda SuperB b3 (2014 - 2019),</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "697",
-        "VariationSku.sku": "A4_2001-08",
-        "ItemDescription.urlPath": "3d-gummimatten-auto-matten-fussmatten-fuer-audi-a4-2001-2008-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "AUDI A4  (B6 & B7) 2001-2008 Rizline",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  AUDI A4  2001-2008  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,46,48,61",
+        "Item.id": "284",
+        "VariationSku.sku": "RL_Polo_6R",
+        "ItemDescription.urlPath": "rizline-3d-fussmatte-kompatible-mit-volkswagen-polo-6c",
+        "ItemDescription.name": "VW POLO (V)  2009 - 2017  Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für VW POLO  (V)  2009 - 2017  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,234,420,422",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Audi",
-            "Category3": "A4",
-            "Category4": "B6&B7 (2001 - 2008)"
+            "Category2": "Volkswagen",
+            "Category3": "Polo",
+            "Category4": "5 ( 2009 - 2017 )"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; AUDI A4&nbsp; 2001-2008&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: AUDI A4&nbsp; 2001-2008</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<p>&nbsp; &nbsp;&nbsp;</p> <ul>\t<li>Passend für: Volkswagen POLO (V)&nbsp; 2009 - 2017</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "556",
-        "VariationSku.sku": "Aud_Q5",
-        "ItemDescription.urlPath": "3d-gummimatten-auto-matten-fussmatten-fuer-audi-q5-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "AUDI  Q5 FY ab 2017  Auto Gummimatten   Gummifußmatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  AUDI  Q5  FY ab 2017 passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,46,67,69",
+        "Item.id": "761",
+        "VariationSku.sku": "Mzd_3_3",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-mazda-3-3-gen-2013-2019-passgenaue-gummimatten",
+        "ItemDescription.name": "MAZDA 3 3.Gen (2013 - 2019)  Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fußmatten für  MAZDA 3 3.Gen (2013 - 2019)passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,211,212,215",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Audi",
-            "Category3": "Q5",
-            "Category4": "FY (ab 2017)"
+            "Category2": "Mazda",
+            "Category3": "Mazda 3",
+            "Category4": "3. Gen (2014 - 2019)"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; AUDI Q5 FY&nbsp; ab 2017 passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: AUDI Q5 FY ab 2017</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für MAZDA 3 <strong><u>3.Gen (2013 - 2019) </u></strong>passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;MAZDA 3 <u>3.Gen (2013 - 2019)</u></span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li>Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li>Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li>Nicht deformierbar.</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "678",
-        "VariationSku.sku": "F_Kuga_3",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-ford-kuga-3-generation-ab-2020-passgenaue-gummimatten",
-        "ItemDescription.name": "FORD KUGA 3. Gen. ab 2020 Auto Gummimatten Autofußmatten ",
-        "ItemDescription.name2": "3D Auto  Fussmatten für FORD KUGA 3. Generation ab 2020  passgenaue Gummimatten Autoteppich mit hohem rand c.a 5 cm (Nicht geeignet für Ford Kuga mit Hybrid)",
-        "VariationCategory.allCategoryIds": "23,143,157,160",
+        "Item.id": "760",
+        "VariationSku.sku": "Mzd_3_2",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-mazda-3-2-gen-2009-2012-passgenaue-gummimatten",
+        "ItemDescription.name": "MAZDA 3 2.Gen (2009 - 2012) Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fußmatten für  MAZDA 3 2.Gen (2009 - 2012) passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,211,212,214",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Kuga",
-            "Category4": "3.Gen ( 2020 ---)"
+            "Category2": "Mazda",
+            "Category3": "Mazda 3",
+            "Category4": "2. Gen (2009 - 2013)"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp;FORD KUGA 3. Generation ab 2020&nbsp;&nbsp; passgenaue Gummimatten Autoteppich mit hohem rand c.a 5 cm passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; FORD KUGA 3. Generation ab 2020 (*** Nicht geeignet für Ford Kuga mit Hybrid ***)</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "680",
-        "VariationSku.sku": "Fiesta_02",
-        "ItemDescription.urlPath": "3d-auto-matten-fussmatten-fuer-ford-fiesta-02-2002-2008-passgenaue-gummimatten",
-        "ItemDescription.name": "FORD Fiesta '02 (2002-2008) Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  FORD Fiesta '02  (2002-2008) passgenaue Gummimatten Autoteppich mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,143,149,448",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Fiesta",
-            "Category4": "02 (2002 - 2008 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; FORD Fiesta '02 (2002-2008)&nbsp; passgenaue Gummimatten Autoteppich mit hohem rand c.a&nbsp;</li>\t<li><span style=\"color:#FF0000;\"><strong>Passend für:&nbsp;&nbsp;FORD Fiesta&nbsp; '02 (2002-2008)&nbsp;</strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "567",
-        "VariationSku.sku": "Fiesta_09",
-        "ItemDescription.urlPath": "3d-auto-matten-fussmatten-fuer-ford-fiesta-2009-2017-passgenaue-gummimatten",
-        "ItemDescription.name": "FORD Fiesta ’09 (2008–2017) Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  FORD Fiesta  (2009-2017)  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,143,149,151",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Fiesta",
-            "Category4": "09 (2008 - 2017)"
-        },
-        "ItemDescription.description": "<ul>\t<li>Passend für:&nbsp;<span style=\"font-size:22px;\"><strong><span style=\"color:#ff0000;\">FORD Fiesta&nbsp; (2009-2017)&nbsp;</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "289",
-        "VariationSku.sku": "rzfs_6",
-        "ItemDescription.urlPath": "rizline-3d-fussmatte-kompatible-mit-ford-fiesta-2018",
-        "ItemDescription.name": "FORD Fiesta  ab 2018  Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  FORD Fiesta  ab 2018  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,143,149,152",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Fiesta",
-            "Category4": "18 (ab 2018 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li>Passend für:&nbsp;&nbsp;&nbsp;<strong><span style=\"font-size:24px;\"><span style=\"color:#ff0000;\">FORD Fiesta&nbsp; ab 2018</span></span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für MAZDA 3 2.Gen (2009&nbsp;- 2012) passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;MAZDA 3 2.Gen (2009&nbsp;- 2012)</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li>Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li>Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li>Nicht deformierbar.</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -5138,53 +5090,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "294",
-        "VariationSku.sku": "rzfs_11",
-        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/rizline-3d-fussmatte-kompatible-mit-audi-a4-s4-rs4-2015",
-        "ItemDescription.name": "AUDI A4, S4, RS4 (B9) ab 2015 ",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  AUDI A4, S4, RS4 ab 2015  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,46,48,63",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Audi",
-            "Category3": "A4",
-            "Category4": "B9 (ab 2015)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; AUDI A4, S4, RS4 ab 2015&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: AUDI A4, S4, RS4 ab 2015</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "749",
-        "VariationSku.sku": "F_Puma",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-ford-puma-ab-2020-passgenaue-gummimatten",
-        "ItemDescription.name": "FORD PUMA ab 2020 Auto Gummimatten Autofußmatten ",
-        "ItemDescription.name2": "3D Auto  Fussmatten für FORD PUMA ab 2020    passgenaue Gummimatten Auto Gummi Teppich mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,143,164",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Puma"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für FORD PUMA ab 2020&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:18px;\"><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; FORD PUMA ab 2020</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "760",
-        "VariationSku.sku": "Mzd_3_2",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-mazda-3-2-gen-2009-2012-passgenaue-gummimatten",
-        "ItemDescription.name": "MAZDA 3 2.Gen (2009 - 2012) Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fußmatten für  MAZDA 3 2.Gen (2009 - 2012) passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,211,212,214",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Mazda",
-            "Category3": "Mazda 3",
-            "Category4": "2. Gen (2009 - 2013)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für MAZDA 3 2.Gen (2009&nbsp;- 2012) passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;MAZDA 3 2.Gen (2009&nbsp;- 2012)</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li>Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li>Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li>Nicht deformierbar.</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "920",
         "VariationSku.sku": "",
         "ItemDescription.urlPath": "lebensmittel-alkolfreire-getranke/dattel/medjool/class1-large-medjool-datteln-5-kg-schwefelfreie-zarte-hoechste-qualitaet-naturbelassen",
@@ -7100,6 +7005,149 @@
             "Category4": "B ( 2010 - 2017)"
         },
         "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; OPEL MERIVA B (2010-2017)&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: OPEL MERIVA B (2010-2017)</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "678",
+        "VariationSku.sku": "F_Kuga_3",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-ford-kuga-3-generation-ab-2020-passgenaue-gummimatten",
+        "ItemDescription.name": "FORD KUGA 3. Gen. ab 2020 Auto Gummimatten Autofußmatten ",
+        "ItemDescription.name2": "3D Auto  Fussmatten für FORD KUGA 3. Generation ab 2020  passgenaue Gummimatten Autoteppich mit hohem rand c.a 5 cm (Nicht geeignet für Ford Kuga mit Hybrid)",
+        "VariationCategory.allCategoryIds": "23,143,157,160",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "Kuga",
+            "Category4": "3.Gen ( 2020 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp;FORD KUGA 3. Generation ab 2020&nbsp;&nbsp; passgenaue Gummimatten Autoteppich mit hohem rand c.a 5 cm passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; FORD KUGA 3. Generation ab 2020 (*** Nicht geeignet für Ford Kuga mit Hybrid ***)</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "730",
+        "VariationSku.sku": "A4_2008-15",
+        "ItemDescription.urlPath": "3d-gummimatten-auto-matten-fussmatten-fuer-audi-a4-b8-2008-2015-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "AUDI A4 (B8)  2008-2015  Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fußmatten für  AUDI A4 (B8)  2008-2015  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,46,48,62",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Audi",
+            "Category3": "A4",
+            "Category4": "B8 (2008 - 2014)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für&nbsp; AUDI A4 (B8)&nbsp; 2008-2015&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"color:#FF0000;\">Passend für: AUDI A4 (B8)&nbsp;&nbsp;2008-2015</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "749",
+        "VariationSku.sku": "F_Puma",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-ford-puma-ab-2020-passgenaue-gummimatten",
+        "ItemDescription.name": "FORD PUMA ab 2020 Auto Gummimatten Autofußmatten ",
+        "ItemDescription.name2": "3D Auto  Fussmatten für FORD PUMA ab 2020    passgenaue Gummimatten Auto Gummi Teppich mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,143,164",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "Puma"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für FORD PUMA ab 2020&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:18px;\"><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; FORD PUMA ab 2020</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "567",
+        "VariationSku.sku": "Fiesta_09",
+        "ItemDescription.urlPath": "3d-auto-matten-fussmatten-fuer-ford-fiesta-2009-2017-passgenaue-gummimatten",
+        "ItemDescription.name": "FORD Fiesta ’09 (2008–2017) Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  FORD Fiesta  (2009-2017)  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,143,149,151",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "Fiesta",
+            "Category4": "09 (2008 - 2017)"
+        },
+        "ItemDescription.description": "<ul>\t<li>Passend für:&nbsp;<span style=\"font-size:22px;\"><strong><span style=\"color:#ff0000;\">FORD Fiesta&nbsp; (2009-2017)&nbsp;</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "680",
+        "VariationSku.sku": "Fiesta_02",
+        "ItemDescription.urlPath": "3d-auto-matten-fussmatten-fuer-ford-fiesta-02-2002-2008-passgenaue-gummimatten",
+        "ItemDescription.name": "FORD Fiesta '02 (2002-2008) Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  FORD Fiesta '02  (2002-2008) passgenaue Gummimatten Autoteppich mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,143,149,448",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "Fiesta",
+            "Category4": "02 (2002 - 2008 )"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; FORD Fiesta '02 (2002-2008)&nbsp; passgenaue Gummimatten Autoteppich mit hohem rand c.a&nbsp;</li>\t<li><span style=\"color:#FF0000;\"><strong>Passend für:&nbsp;&nbsp;FORD Fiesta&nbsp; '02 (2002-2008)&nbsp;</strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "289",
+        "VariationSku.sku": "rzfs_6",
+        "ItemDescription.urlPath": "rizline-3d-fussmatte-kompatible-mit-ford-fiesta-2018",
+        "ItemDescription.name": "FORD Fiesta  ab 2018  Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  FORD Fiesta  ab 2018  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,143,149,152",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "Fiesta",
+            "Category4": "18 (ab 2018 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li>Passend für:&nbsp;&nbsp;&nbsp;<strong><span style=\"font-size:24px;\"><span style=\"color:#ff0000;\">FORD Fiesta&nbsp; ab 2018</span></span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "697",
+        "VariationSku.sku": "A4_2001-08",
+        "ItemDescription.urlPath": "3d-gummimatten-auto-matten-fussmatten-fuer-audi-a4-2001-2008-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "AUDI A4  (B6 & B7) 2001-2008 Rizline",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  AUDI A4  2001-2008  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,46,48,61",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Audi",
+            "Category3": "A4",
+            "Category4": "B6&B7 (2001 - 2008)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; AUDI A4&nbsp; 2001-2008&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: AUDI A4&nbsp; 2001-2008</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "294",
+        "VariationSku.sku": "rzfs_11",
+        "ItemDescription.urlPath": "rizline-3d-fussmatte-kompatible-mit-audi-a4-s4-rs4-2015",
+        "ItemDescription.name": "AUDI A4, S4, RS4 (B9) ab 2015 ",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  AUDI A4, S4, RS4 ab 2015  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,46,48,63",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Audi",
+            "Category3": "A4",
+            "Category4": "B9 (ab 2015)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; AUDI A4, S4, RS4 ab 2015&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: AUDI A4, S4, RS4 ab 2015</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "556",
+        "VariationSku.sku": "Aud_Q5",
+        "ItemDescription.urlPath": "3d-gummimatten-auto-matten-fussmatten-fuer-audi-q5-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "AUDI  Q5 FY ab 2017  Auto Gummimatten   Gummifußmatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  AUDI  Q5  FY ab 2017 passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,46,67,69",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Audi",
+            "Category3": "Q5",
+            "Category4": "FY (ab 2017)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; AUDI Q5 FY&nbsp; ab 2017 passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: AUDI Q5 FY ab 2017</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -14468,22 +14516,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "761",
-        "VariationSku.sku": "Mzd_3_3",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-mazda-3-3-gen-2013-2019-passgenaue-gummimatten",
-        "ItemDescription.name": "MAZDA 3 3.Gen (2013 - 2019)  Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fußmatten für  MAZDA 3 3.Gen (2013 - 2019)passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,211,212,215",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Mazda",
-            "Category3": "Mazda 3",
-            "Category4": "3. Gen (2014 - 2019)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für MAZDA 3 <strong><u>3.Gen (2013 - 2019) </u></strong>passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;MAZDA 3 <u>3.Gen (2013 - 2019)</u></span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li>Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li>Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li>Nicht deformierbar.</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "613",
         "VariationSku.sku": "Skd_kodiaq",
         "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-skoda-kodiaq-passgenaue-gummimatten",
@@ -15754,7 +15786,7 @@
     {
         "Item.id": "286",
         "VariationSku.sku": "rzfs_3",
-        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/rizline-3d-fussmatte-kompatible-mit-mercedes-c-class-w205",
+        "ItemDescription.urlPath": "rizline-3d-fussmatte-kompatible-mit-mercedes-c-class-w205",
         "ItemDescription.name": "MERCEDES C-Class W205 ab 2014  Gummimatten Autofußmatten",
         "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  MERCEDES C-Class W205 ab 2014  passgenaue mit hohem rand c.a 5",
         "VariationCategory.allCategoryIds": "23,222,248",
@@ -17399,22 +17431,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "284",
-        "VariationSku.sku": "RL_Polo_6R",
-        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/rizline-3d-fussmatte-kompatible-mit-volkswagen-polo-6c",
-        "ItemDescription.name": "VW POLO (V)  2009 - 2017  Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für VW POLO  (V)  2009 - 2017  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,234,420,422",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Polo",
-            "Category4": "5 ( 2009 - 2017 )"
-        },
-        "ItemDescription.description": "<p>&nbsp; &nbsp;&nbsp;</p> <ul>\t<li>Passend für: Volkswagen POLO (V)&nbsp; 2009 - 2017</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "822",
         "VariationSku.sku": "TM_Caddy_5",
         "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-vw-caddy-v-5-ab-2020-passgenaue-mit-hohem-rand",
@@ -18422,22 +18438,6 @@
             "Category4": "ë-C4 ab 2022"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;&nbsp;Citroën ë-C4 ab 2022</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "285",
-        "VariationSku.sku": "rzfs_20",
-        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/rizline-3d-fussmatte-kompatible-mit-volkswagen-passat-b8",
-        "ItemDescription.name": "VW Passat B8 ab 2014 Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für VW Passat B8 ab 2014 passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,234,415,418",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Passat",
-            "Category4": "B8 ( 2015 - 2021)"
-        },
-        "ItemDescription.description": "<ul>\t<li>Passend für: VW Passat B8 ab 2014, Skoda SuperB b3 (2014 - 2019),</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
