@@ -1,5 +1,37 @@
 [
     {
+        "Item.id": "828",
+        "VariationSku.sku": "TM_Mzd_6_3.gen",
+        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/trimak-3d-auto-gummimatten-fussmatten-kompatibel-mit-mazda-6-3-generation-ab-2012-passgenaue-mit-hohem-rand",
+        "ItemDescription.name": "MAZDA 6 (3.Generation  ab 2012)  Gummimatten Autofußmatten",
+        "ItemDescription.name2": "TRIMAK  3D Auto Gummimatten Fußmatten kompatibel mit Mazda 6 (3.Generation  ab 2012)   passgenaue mit hohem Rand ",
+        "VariationCategory.allCategoryIds": "23,211,216,217",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Mazda",
+            "Category3": "Mazda 6",
+            "Category4": "3.Gen (2012 - 2021)"
+        },
+        "ItemDescription.description": "<ul>\t<li>TRIMAK&nbsp; 3D Auto Gummimatten Fußmatten kompatibel mit Mazda 6 (3.Generation&nbsp; ab 2012)&nbsp; &nbsp;passgenaue mit hohem Rand&nbsp;</li>\t<li><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\"><strong>Passend für: Mazda 6 ( 3.Generation ab 2012)&nbsp;</strong></span></span></li>\t<li><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\"><strong>4-teilig (2 x vorn, 2 x hinten)</strong></span></span></li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1295",
+        "VariationSku.sku": "RL_Mzd_6_3",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-mazda-6-3-gen-gj-gl-ab-2012-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit MAZDA 6 (3.Gen. GJ/GL)  ab 2012 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit MAZDA 6 (3.Gen. GJ/GL)  ab 2012 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,211,216,217",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Mazda",
+            "Category3": "Mazda 6",
+            "Category4": "3.Gen (2012 - 2021)"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: MAZDA 6 (3.Gen. GJ/GL) &nbsp;ab 2012</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
         "Item.id": "2835",
         "VariationSku.sku": "Set_Duster_4x4_2",
         "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-dacia-duster-4x4-2-gen-2018-2022",
@@ -11866,22 +11898,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "828",
-        "VariationSku.sku": "TM_Mzd_6_3.gen",
-        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/trimak-3d-auto-gummimatten-fussmatten-kompatibel-mit-mazda-6-3-generation-ab-2012-passgenaue-mit-hohem-rand",
-        "ItemDescription.name": "MAZDA 6 (3.Generation  ab 2012)  Gummimatten Autofußmatten",
-        "ItemDescription.name2": "TRIMAK  3D Auto Gummimatten Fußmatten kompatibel mit Mazda 6 (3.Generation  ab 2012)   passgenaue mit hohem Rand ",
-        "VariationCategory.allCategoryIds": "23,211,216,217",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Mazda",
-            "Category3": "Mazda 6",
-            "Category4": "3.Gen (2012 - 2021)"
-        },
-        "ItemDescription.description": "<ul>\t<li>TRIMAK&nbsp; 3D Auto Gummimatten Fußmatten kompatibel mit Mazda 6 (3.Generation&nbsp; ab 2012)&nbsp; &nbsp;passgenaue mit hohem Rand&nbsp;</li>\t<li><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\"><strong>Passend für: Mazda 6 ( 3.Generation ab 2012)&nbsp;</strong></span></span></li>\t<li><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\"><strong>4-teilig (2 x vorn, 2 x hinten)</strong></span></span></li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "921",
         "VariationSku.sku": "TM_C3_2.Gen",
         "ItemDescription.urlPath": "citroen-c3-2-gen-2009-2017-auto-gummimatten-autofussmatten",
@@ -19109,22 +19125,6 @@
         },
         "ItemDescription.description": "<p><strong>Durchschnittliche Nährwerte Per/Pro 100g</strong></p> <p>-Energie 1499 kj/364 kcal</p> <p>-Fett 36,6g</p> <p>-Davon Gasättigte Fettsäuren 5,9g</p> <p>-Karbonhidrat 5,7g</p> <p>Davon Zuker 0g</p> <p>Ballastsoffe 2,2g</p> <p>Eisweiß 1,8g</p> <p>Salz 5,5g</p>",
         "VariationSku.marketId": ""
-    },
-    {
-        "Item.id": "1295",
-        "VariationSku.sku": "RL_Mzd_6_3",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-mazda-6-3-gen-gj-gl-ab-2012-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit MAZDA 6 (3.Gen. GJ/GL)  ab 2012 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit MAZDA 6 (3.Gen. GJ/GL)  ab 2012 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,211,216,217",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Mazda",
-            "Category3": "Mazda 6",
-            "Category4": "3.Gen (2012 - 2021)"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: MAZDA 6 (3.Gen. GJ/GL) &nbsp;ab 2012</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
     },
     {
         "Item.id": "1496",
