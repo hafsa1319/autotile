@@ -1,5 +1,21 @@
 [
     {
+        "Item.id": "731",
+        "VariationSku.sku": "Aud_A6_C5_97–05",
+        "ItemDescription.urlPath": "autoteile-zubehoer/3d-gummimatten-auto-matten-fussmatten-fuer-audi-a6-c5-1997-2005-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "AUDI A6 C5  (1997-2005)  Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fußmatten für  AUDI A6 C5  (1997-2005)  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,46,50,57",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Audi",
+            "Category3": "A6",
+            "Category4": "C5 (1996 - 2004)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für&nbsp; AUDI A6 C5&nbsp; (1997-2005)&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"color: rgb(255, 0, 0);\"><strong>Passend für: AUDI A6 C5&nbsp; (1997-2005)</strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
         "Item.id": "660",
         "VariationSku.sku": "S_Ateca",
         "ItemDescription.urlPath": "autoteile-zubehoer/3d-gummimatten-auto-fussmatten-fuer-seat-ateca-passgenaue-mit-hohem-rand-c-a-5-cm",
@@ -5844,22 +5860,6 @@
             "Category4": "F25 (2010 - 2017)"
         },
         "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp;BMW X3 (F25) (2010–2017) passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; BMW X3 (F25) (2010–2017)</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "731",
-        "VariationSku.sku": "Aud_A6_C5_97–05",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-gummimatten-auto-matten-fussmatten-fuer-audi-a6-c5-1997-2005-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "AUDI A6 C5  (1997-2005)  Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fußmatten für  AUDI A6 C5  (1997-2005)  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,46,50,57",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Audi",
-            "Category3": "A6",
-            "Category4": "C5 (1996 - 2004)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für&nbsp; AUDI A6 C5&nbsp; (1997-2005)&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"color: rgb(255, 0, 0);\"><strong>Passend für: AUDI A6 C5&nbsp; (1997-2005)</strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
