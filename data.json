@@ -1,113 +1,97 @@
 [
     {
-        "Item.id": "640",
-        "VariationSku.sku": "",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-xceed-ab2019-passgenaue-gummimatten",
-        "ItemDescription.name": "3D Auto  Fussmatten kompatibel mit KIA XCEED ab 2019  passgenaue Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für KIA XCEED  ab 2019    passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,188,189,571",
+        "Item.id": "667",
+        "VariationSku.sku": "5_Series_G30",
+        "ItemDescription.urlPath": "3d-auto-matten-fussmatten-fuer-bmw-5-series-g30-ab-2017-passgenaue-gummimatten",
+        "ItemDescription.name": "BMW  5er ( G30 ) ab 2017  Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D  Auto Matten Fussmatten für  BMW  5 Series ( G30 ) ab 2017 passgenaue Gummimatten mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,74,89,92",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Ceed",
-            "Category4": "X-Ceed"
+            "Category2": "BMW",
+            "Category3": "5 Serie",
+            "Category4": "G30 (2017 ---)"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA XCEED &nbsp;ab 2019&nbsp; &nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA XCEED ab 2019</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": ""
-    },
-    {
-        "Item.id": "639",
-        "VariationSku.sku": "K_ceed_3",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-ceed-3-gen-ab-2018-passgenaue-gummimatten",
-        "ItemDescription.name": "KIA CEED (3.Gen) ab 2018 Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto Fußmatten für KIA CEED (3.Gen) ab 2018  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,188,189,191",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Ceed",
-            "Category4": "3.Gen (2018 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für KIA CEED (3.Gen) ab 2018 passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"font-size:16px;\"><span style=\"color:#FF0000;\">KIA CEED (3.Gen) ab 2018&nbsp;&nbsp;</span></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; BMW5 Series ( G30 ) ab 2017 passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: <span style=\"color:#FF0000;\">BMW&nbsp;5 Series ( G30 ) ab 2017</span>&nbsp;<span style=\"color:#FF0000;\">passgenaue mit hohem rand c.a 5 cm</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "638",
-        "VariationSku.sku": "K_Ceed_2",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-ceed-2-gen-2012-2017-passgenaue-gummimatten",
-        "ItemDescription.name": "KIA CEED (2.Gen) 2012-2017 Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für KIA CEED (2.Gen) 2012-2017    passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,188,189,190",
+        "Item.id": "656",
+        "VariationSku.sku": "Prch_Cayenne_2",
+        "ItemDescription.urlPath": "3d-gummimatten-auto-matten-fussmatten-fuer-porsche-cayenne-2010-2014-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "Auto Matten Fussmatten fü Porsche Cayenne 2.Gen 2010-2017 2-Zonen-Klimaanlage",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  Porsche Cayenne 2.Gen 2010-2017 2-Zonen-Klimaanlage passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,342,573",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Ceed",
-            "Category4": "2. Gen (2012 - 2018 )"
+            "Category2": "Cayenne",
+            "Category3": "2.Gen. 2010-2017"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA CEED (2.Gen) 2012-2017&nbsp;&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA CEED (2.Gen) 2012-2017</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; Porsche Cayenne 2.Gen 2010-2017 2-Zonen-Klimaanlage&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: <span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\">Porsche Cayenne&nbsp;2.Gen 2010-2017 2-Zonen-Klimaanlage</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "637",
-        "VariationSku.sku": "H_Tucsn_3",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-tucson-3-gen-ab-2015-passgenaue-gummimatten",
-        "ItemDescription.name": "HYUNDAI Tucson (3.gen) ab 2015  Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI Tucson (3.gen) ab 2015   passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,172,184,185",
+        "Item.id": "655",
+        "VariationSku.sku": "P_5008_2",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-5008-2-gen-ab-2017-passgenaue-gummimatten",
+        "ItemDescription.name": "PEUGEOT 5008 (2.gen) ab 2017 Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 5008 (2.gen) ab 2017  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,228,339,341",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Hyundai",
-            "Category3": "Tucson",
-            "Category4": "3. Gen ( 2015 - 2020)"
+            "Category2": "Peugeot",
+            "Category3": "Peugeot 5008",
+            "Category4": "2. Gen ( seit 2017 )"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI Tucson (3.gen) ab 2015&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">HYUNDAI&nbsp;Tucson (3.gen) ab 2015</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 5008 (2.gen) ab 2017&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 5008 (2.gen) ab 2017&nbsp;</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "636",
-        "VariationSku.sku": "H_kona",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-kona-passgenaue-gummimatten",
-        "ItemDescription.name": "HYUNDAI KONA  Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI KONA   passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,172,183",
+        "Item.id": "654",
+        "VariationSku.sku": "P_508_2",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-508-2-gen-ab-2018-passgenaue-gummimatten",
+        "ItemDescription.name": "PEUGEOT 508 (2.gen) ab 2018 Autofußmatten  Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 508 (2.gen) ab 2018  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,228,330,332",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Hyundai",
-            "Category3": "Kona"
+            "Category2": "Peugeot",
+            "Category3": "Peugeot 508",
+            "Category4": "2. Gen ( seit 2018 )"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI KONA&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; HYUNDAI KONA</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 508 (2.gen) ab 2018&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 508 (2.gen)ab 2018</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "635",
-        "VariationSku.sku": "H_i30_3",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-i30-3-gen-ab-2017-passgenaue-gummimatten",
-        "ItemDescription.name": "HYUNDAI i30 (3.Gen.) ab 2017 Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI i30 (3.Gen.) ab 2017    passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,172,178,180",
+        "Item.id": "653",
+        "VariationSku.sku": "P_508_1",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-508-1-gen-2010-2018-passgenaue-gummimatten",
+        "ItemDescription.name": "PEUGEOT 508 (1.gen) 2010-2018 Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 508 (1.gen) 2010-2018  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,228,330,331",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Hyundai",
-            "Category3": "i30",
-            "Category4": "3. Gen ( 2017 --- )"
+            "Category2": "Peugeot",
+            "Category3": "Peugeot 508",
+            "Category4": "1. Gen ( 2010 - 2018 )"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI I30 (3.Gen.) ab 2017&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; HYUNDAI I30 (3.Gen.) ab 2017&nbsp;</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 508 (1.gen) 2010-2018&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 508 (1.gen) 2010-2018</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "633",
-        "VariationSku.sku": "H_i20_2",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-i20-2-gen-ab-2015-passgenaue-gummimatten",
-        "ItemDescription.name": "HYUNDAI i20 (2. Gen.) ab 2015 Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI i20 (2. Gen.) ab 2015   passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,172,175,176",
+        "Item.id": "651",
+        "VariationSku.sku": "P_3008_1",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-3008-1-gen-2009-2016-passgenaue-gummimatten",
+        "ItemDescription.name": "PEUGEOT 3008 (1.gen)  2009-2016 Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 3008 (1.gen)  2009-2016 passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,228,336,337",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Hyundai",
-            "Category3": "i20",
-            "Category4": "2. Gen (2014 - 2020)"
+            "Category2": "Peugeot",
+            "Category3": "Peugeot 3008",
+            "Category4": "1. Gen ( 2008 - 2016 )"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI I20 (2. Gen.) ab 2015&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; HYUNDAI I20 (2. Gen.) ab 2015</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 3008 (1.gen)&nbsp; 2009-2016&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend für:&nbsp; PEUGEOT 3008 (1.gen)&nbsp; 2009-2016</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -840,6 +824,274 @@
             "Category4": "2. Gen ( 2013 -2021 )"
         },
         "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp;<span style=\"color:#FF0000;\">Nissan Qashqai 2.Gen ab 2014</span>&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">Nissan Qashqai 2.Gen ab 2014</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "635",
+        "VariationSku.sku": "H_i30_3",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-i30-3-gen-ab-2017-passgenaue-gummimatten",
+        "ItemDescription.name": "HYUNDAI i30 (3.Gen.) ab 2017 Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI i30 (3.Gen.) ab 2017    passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,172,178,180",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Hyundai",
+            "Category3": "i30",
+            "Category4": "3. Gen ( 2017 --- )"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI I30 (3.Gen.) ab 2017&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; HYUNDAI I30 (3.Gen.) ab 2017&nbsp;</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "637",
+        "VariationSku.sku": "H_Tucsn_3",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-tucson-3-gen-ab-2015-passgenaue-gummimatten",
+        "ItemDescription.name": "HYUNDAI Tucson (3.gen) ab 2015  Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI Tucson (3.gen) ab 2015   passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,172,184,185",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Hyundai",
+            "Category3": "Tucson",
+            "Category4": "3. Gen ( 2015 - 2020)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI Tucson (3.gen) ab 2015&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">HYUNDAI&nbsp;Tucson (3.gen) ab 2015</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "633",
+        "VariationSku.sku": "H_i20_2",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-i20-2-gen-ab-2015-passgenaue-gummimatten",
+        "ItemDescription.name": "HYUNDAI i20 (2. Gen.) ab 2015 Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI i20 (2. Gen.) ab 2015   passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,172,175,176",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Hyundai",
+            "Category3": "i20",
+            "Category4": "2. Gen (2014 - 2020)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI I20 (2. Gen.) ab 2015&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; HYUNDAI I20 (2. Gen.) ab 2015</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "642",
+        "VariationSku.sku": "K_Pcnto_3",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-picanto-3-gen-ab-2018-passgenaue-gummimatten",
+        "ItemDescription.name": "KIA Picanto  (3.Gen) ab 2018 Gummimatten. Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für KIA Picanto (3.Gen) ab 2018     passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,188,193,194",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Kia",
+            "Category3": "Picanto",
+            "Category4": "3.Gen (2018 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA Picanto (3.Gen) ab 2018&nbsp;&nbsp;&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA Picanto (3.Gen) ab 2018&nbsp;</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "640",
+        "VariationSku.sku": "",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-xceed-ab2019-passgenaue-gummimatten",
+        "ItemDescription.name": "3D Auto  Fussmatten kompatibel mit KIA XCEED ab 2019  passgenaue Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für KIA XCEED  ab 2019    passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,188,189,571",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Kia",
+            "Category3": "Ceed",
+            "Category4": "X-Ceed"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA XCEED &nbsp;ab 2019&nbsp; &nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA XCEED ab 2019</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": ""
+    },
+    {
+        "Item.id": "639",
+        "VariationSku.sku": "K_ceed_3",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-ceed-3-gen-ab-2018-passgenaue-gummimatten",
+        "ItemDescription.name": "KIA CEED (3.Gen) ab 2018 Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto Fußmatten für KIA CEED (3.Gen) ab 2018  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,188,189,191",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Kia",
+            "Category3": "Ceed",
+            "Category4": "3.Gen (2018 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für KIA CEED (3.Gen) ab 2018 passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"font-size:16px;\"><span style=\"color:#FF0000;\">KIA CEED (3.Gen) ab 2018&nbsp;&nbsp;</span></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "636",
+        "VariationSku.sku": "H_kona",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-kona-passgenaue-gummimatten",
+        "ItemDescription.name": "HYUNDAI KONA  Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI KONA   passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,172,183",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Hyundai",
+            "Category3": "Kona"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI KONA&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; HYUNDAI KONA</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "638",
+        "VariationSku.sku": "K_Ceed_2",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-ceed-2-gen-2012-2017-passgenaue-gummimatten",
+        "ItemDescription.name": "KIA CEED (2.Gen) 2012-2017 Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für KIA CEED (2.Gen) 2012-2017    passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,188,189,190",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Kia",
+            "Category3": "Ceed",
+            "Category4": "2. Gen (2012 - 2018 )"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA CEED (2.Gen) 2012-2017&nbsp;&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA CEED (2.Gen) 2012-2017</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "641",
+        "VariationSku.sku": "K_niro",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-niro-nicht-fuer-ev-hybrid-passgenaue-gummimatten",
+        "ItemDescription.name": "KIA NIRO  (nicht für EV & Hybrid) Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für KIA NIRO  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,188,192",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Kia",
+            "Category3": "Niro"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA NIRO&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA NIRO</span></li>\t<li><strong><span style=\"color:#FF0000;\">Nicht für Elektro- und Hybridfahrzeuge geeignet</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "648",
+        "VariationSku.sku": "P_308",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-308-ii-ab-2013-passgenaue-gummimatten",
+        "ItemDescription.name": "PEUGEOT 308 2.Gen Fließheck 2013–2021  Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 308 2.Gen Fließheck 2013–2021  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,228,328,329",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Peugeot",
+            "Category3": "Peugeot 308",
+            "Category4": "2. Gen ( 2013 - 2021)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 308 2.Gen Fließheck 2013–2021&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">P</span>PEUGEOT 308 2.Gen Fließheck 2013–2021<span style=\"color:#FF0000;\">&nbsp;</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "647",
+        "VariationSku.sku": "P_208",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-208-passgenaue-gummimatten",
+        "ItemDescription.name": "PEUGEOT 208  1. Gen. Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 208  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,228,325,326",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Peugeot",
+            "Category3": "Peugeot 208",
+            "Category4": "1.Gen ( 2012 - 2019 )"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 208&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 208</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "644",
+        "VariationSku.sku": "K_Sprtg_4",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-sportage-4-gen-ab-2016-passgenaue-gummimatten",
+        "ItemDescription.name": "KIA Sportage (4.gen) ab 2016  Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für KIA Sportage (4.gen) ab 2016   passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,188,201,204",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Kia",
+            "Category3": "Sportage",
+            "Category4": "4.Gen ( 2016 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA Sportage (4.gen) ab 2016&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; KIA Sportage (4.gen) ab 2016</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "646",
+        "VariationSku.sku": "P_207",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-207-passgenaue-gummimatten",
+        "ItemDescription.name": "PEUGEOT 207 (2006 - 2015) Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 207  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,228,324",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Peugeot",
+            "Category3": "207 (2006 - 2015 )"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 207&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 207</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "650",
+        "VariationSku.sku": "P_2008_2",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-2008-2-gen-ab-2019-passgenaue-gummimatten",
+        "ItemDescription.name": "PEUGEOT 2008 (2.Gen) ab 2019  Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 2008 (2.Gen) ab 2019 passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,228,333,335",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Peugeot",
+            "Category3": "Peugeot 2008",
+            "Category4": "2. Gen ( seit 2020)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 2008 (2.Gen) ab 2019&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 2008 (2.Gen) ab 2019</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "643",
+        "VariationSku.sku": "K_rio_4",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-rio-4-gen-ab-2017-passgenaue-gummimatten",
+        "ItemDescription.name": "KIA Rio  (4.Gen) ab 2017  Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto Fussmatten für KIA Rio  (4.Gen) ab 2017 passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,188,195,196",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Kia",
+            "Category3": "Rio",
+            "Category4": "4. Gen (2017 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA Rio&nbsp; (4.Gen) ab 2017&nbsp;&nbsp;&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA Rio&nbsp; (4.Gen) ab 2017</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "645",
+        "VariationSku.sku": "K_stnc",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-stonic-passgenaue-gummimatten",
+        "ItemDescription.name": "KIA Stonic Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für KIA Stonic   passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,188,205",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Kia",
+            "Category3": "Stonic"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA Stonic&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; KIA Stonic</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "649",
+        "VariationSku.sku": "P_2008_1",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-2008-1-gen-2013-2019-passgenaue-gummimatten",
+        "ItemDescription.name": "PEUGEOT 2008 (1.Gen) 2013-2019 Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 2008 (1.Gen) 2013-2019 passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,228,333,334",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Peugeot",
+            "Category3": "Peugeot 2008",
+            "Category4": "1. Gen ( 2013 - 2019 )"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 2008 (1.Gen) 2013-2019&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; P<span style=\"color:#FF0000;\">EUGEOT 2008 (1.Gen) 2013-2019</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -4330,21 +4582,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "656",
-        "VariationSku.sku": "Prch_Cayenne_2",
-        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/3d-gummimatten-auto-matten-fussmatten-fuer-porsche-cayenne-2010-2014-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "Auto Matten Fussmatten fü Porsche Cayenne 2.Gen 2010-2017 2-Zonen-Klimaanlage",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für  Porsche Cayenne 2.Gen 2010-2017 2-Zonen-Klimaanlage passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,342,573",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Cayenne",
-            "Category3": "2.Gen. 2010-2017"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; Porsche Cayenne 2.Gen 2010-2017 2-Zonen-Klimaanlage&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: <span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\">Porsche Cayenne&nbsp;2.Gen 2010-2017 2-Zonen-Klimaanlage</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "228",
         "VariationSku.sku": "",
         "ItemDescription.urlPath": "lebensmittel-alkolfreire-getranke/medjool-datteln-5-kg-medium-schwefelfreie-zarte-hoechste-qualitaet-naturbelassen",
@@ -6214,37 +6451,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "641",
-        "VariationSku.sku": "K_niro",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-kia-niro-nicht-fuer-ev-hybrid-passgenaue-gummimatten",
-        "ItemDescription.name": "KIA NIRO  (nicht für EV & Hybrid) Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für KIA NIRO  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,188,192",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Niro"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA NIRO&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA NIRO</span></li>\t<li><strong><span style=\"color:#FF0000;\">Nicht für Elektro- und Hybridfahrzeuge geeignet</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "667",
-        "VariationSku.sku": "5_Series_G30",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-matten-fussmatten-fuer-bmw-5-series-g30-ab-2017-passgenaue-gummimatten",
-        "ItemDescription.name": "BMW  5er ( G30 ) ab 2017  Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D  Auto Matten Fussmatten für  BMW  5 Series ( G30 ) ab 2017 passgenaue Gummimatten mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,74,89,92",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "BMW",
-            "Category3": "5 Serie",
-            "Category4": "G30 (2017 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; BMW5 Series ( G30 ) ab 2017 passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: <span style=\"color:#FF0000;\">BMW&nbsp;5 Series ( G30 ) ab 2017</span>&nbsp;<span style=\"color:#FF0000;\">passgenaue mit hohem rand c.a 5 cm</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "774",
         "VariationSku.sku": "Tyt_C-HR",
         "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-toyota-c-hr-ab-2016-passgenaue-gummimatten",
@@ -6904,22 +7110,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "643",
-        "VariationSku.sku": "K_rio_4",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-kia-rio-4-gen-ab-2017-passgenaue-gummimatten",
-        "ItemDescription.name": "KIA Rio  (4.Gen) ab 2017  Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto Fussmatten für KIA Rio  (4.Gen) ab 2017 passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,188,195,196",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Rio",
-            "Category4": "4. Gen (2017 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA Rio&nbsp; (4.Gen) ab 2017&nbsp;&nbsp;&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA Rio&nbsp; (4.Gen) ab 2017</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "918",
         "VariationSku.sku": "TM_Edge_2.Gen",
         "ItemDescription.urlPath": "ford-edge-2-gen-ab-2015",
@@ -7481,22 +7671,6 @@
             "Category4": "4L (2006 - 2015)"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"color: rgb(51, 51, 51); font-family: Helvetica neue, Helvetica, Verdana, sans-serif; font-size: 18px; font-weight: 700; background-color: rgb(248, 248, 248);\">3D Gummimatten Auto Matten Fußmatten für AUDI Q7 4L 2006-2014 passgenaue</span> mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\">Passend für: AUDI </span></strong></span><span style=\"color:#FF0000;\"><span style=\"font-family: Helvetica neue, Helvetica, Verdana, sans-serif; font-size: 18px; font-weight: 700; background-color: rgb(248, 248, 248);\">Q7 4L 2006-2014</span></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "653",
-        "VariationSku.sku": "P_508_1",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-peugeot-508-1-gen-2010-2018-passgenaue-gummimatten",
-        "ItemDescription.name": "PEUGEOT 508 (1.gen) 2010-2018 Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 508 (1.gen) 2010-2018  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,228,330,331",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "Peugeot 508",
-            "Category4": "1. Gen ( 2010 - 2018 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 508 (1.gen) 2010-2018&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 508 (1.gen) 2010-2018</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -8152,22 +8326,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "651",
-        "VariationSku.sku": "P_3008_1",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-peugeot-3008-1-gen-2009-2016-passgenaue-gummimatten",
-        "ItemDescription.name": "PEUGEOT 3008 (1.gen)  2009-2016 Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 3008 (1.gen)  2009-2016 passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,228,336,337",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "Peugeot 3008",
-            "Category4": "1. Gen ( 2008 - 2016 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 3008 (1.gen)&nbsp; 2009-2016&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend für:&nbsp; PEUGEOT 3008 (1.gen)&nbsp; 2009-2016</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "936",
         "VariationSku.sku": "TM_Fortwo_3.Gen",
         "ItemDescription.urlPath": "smart-fortwo-3-gen-ab-2014",
@@ -8677,7 +8835,7 @@
     {
         "Item.id": "669",
         "VariationSku.sku": "H_i10_3",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-hyundai-i10-3-gen-ab-2019-passgenaue-gummimatten",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-i10-3-gen-ab-2019-passgenaue-gummimatten",
         "ItemDescription.name": "HYUNDAI  i10  (3.Gen) ab 2019  Gummimatten Autofußmatten",
         "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI  i10  (3.Gen) ab 2019 passgenaue mit hohem rand c.a 5 cm",
         "VariationCategory.allCategoryIds": "23,172,173,174",
@@ -9303,22 +9461,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "644",
-        "VariationSku.sku": "K_Sprtg_4",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-kia-sportage-4-gen-ab-2016-passgenaue-gummimatten",
-        "ItemDescription.name": "KIA Sportage (4.gen) ab 2016  Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für KIA Sportage (4.gen) ab 2016   passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,188,201,204",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Sportage",
-            "Category4": "4.Gen ( 2016 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA Sportage (4.gen) ab 2016&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; KIA Sportage (4.gen) ab 2016</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1536",
         "VariationSku.sku": "TM_KF_Formentor_Ob",
         "ItemDescription.urlPath": "trimak-kofferraumwanne-kompatibel-mit-cupra-formentor-ab-2020-obere-kofferraummatte",
@@ -9424,21 +9566,6 @@
             "Category4": "E-Power"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:22px;\"><strong><span style=\"color:#ff0000;\">Passend für: Nissan X-Trail e-Power 5 Sitzer ab 2022 Kofferraummatte</span></strong></span></li>\t<li><strong>3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Kofferraumwanne bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Kofferraumwanne mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Kofferraumwannen Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "646",
-        "VariationSku.sku": "P_207",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-peugeot-207-passgenaue-gummimatten",
-        "ItemDescription.name": "PEUGEOT 207 (2006 - 2015) Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 207  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,228,324",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "207 (2006 - 2015 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 207&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 207</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -9778,21 +9905,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "645",
-        "VariationSku.sku": "K_stnc",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-kia-stonic-passgenaue-gummimatten",
-        "ItemDescription.name": "KIA Stonic Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für KIA Stonic   passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,188,205",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Stonic"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA Stonic&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; KIA Stonic</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "724",
         "VariationSku.sku": "Versand",
         "ItemDescription.urlPath": "autoteile/versand",
@@ -9926,22 +10038,6 @@
             "Category4": "2.Gen (2013 - 2020)"
         },
         "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für&nbsp;DACIA LOGAN 2.Generation (2012-2020)&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; DACIA LOGAN 2.Generation (2012-2020)</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "647",
-        "VariationSku.sku": "P_208",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-peugeot-208-passgenaue-gummimatten",
-        "ItemDescription.name": "PEUGEOT 208  1. Gen. Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 208  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,228,325,326",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "Peugeot 208",
-            "Category4": "1.Gen ( 2012 - 2019 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 208&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 208</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -10292,22 +10388,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "654",
-        "VariationSku.sku": "P_508_2",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-peugeot-508-2-gen-ab-2018-passgenaue-gummimatten",
-        "ItemDescription.name": "PEUGEOT 508 (2.gen) ab 2018 Autofußmatten  Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 508 (2.gen) ab 2018  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,228,330,332",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "Peugeot 508",
-            "Category4": "2. Gen ( seit 2018 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 508 (2.gen) ab 2018&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 508 (2.gen)ab 2018</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "732",
         "VariationSku.sku": "",
         "ItemDescription.urlPath": "lebensmittel-alkolfreire-getranke/medjoul-datteln-class1-large-1-kg",
@@ -10451,22 +10531,6 @@
             "Category4": "F45 Active Tourer ( 2014 - -  )"
         },
         "ItemDescription.description": "<ul>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Trimak Passgenau 3D Kofferraumwanne Kompatibel mit BMW 2 F45 Active Tourer 2014 - 2021 Kofferraummatte Schutzmatte Auto Zubehör Antirutschmatte Kantenschutz Kofferraumwanne TPE Gummi Dauerhaft Schwarz</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\"><span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\"><span class=\"a-list-item\" style=\"box-sizing: border-box;\">Passend für:&nbsp; BMW 2 F45 Active Tourer (2014 - 2021)</span></span></strong></span></li>\t<li>[KOMPATIBEL]: Die Trimak Kofferraumwanne passt sich perfekt in den kofferraum ihres autos an, dank der herstellung von 3D laserscanning technologie.</li>\t<li>[TPE MATERIAL IST LANGLEBIG UND RECYCELBAR]: Trimak Kofferraummatte bestehen zu 100 % aus recycelbarem TPE material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</li>\t<li>[ALLWETTER UND RUTSCHFEST]: Trimak Kofferraumwanne mit festem und hohem rand verhindern, dass alle arten von flüssigkeiten vom kofferraum aufgenommen werden, und das fahrzeug bei allen wetterbedingungen schützen.</li>\t<li>[EINFACHE REINIGUNG UND INSTALATION]: Die strukturierte, rutschfeste oberfläche lässt sich leicht saugen oder mit wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE material hergestellt wird, muss es bis zu 48 stunden im kofferraum liegen damit es die form des bodens annimmt.</li>\t<li>[GLÜCKLICHE KUNDEN]: Wenn sie fragen haben, können Sie sich gerne an uns wenden. Unsere vision ist 100% kundenzufriedenheit.</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "648",
-        "VariationSku.sku": "P_308",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-peugeot-308-ii-ab-2013-passgenaue-gummimatten",
-        "ItemDescription.name": "PEUGEOT 308 2.Gen Fließheck 2013–2021  Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 308 2.Gen Fließheck 2013–2021  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,228,328,329",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "Peugeot 308",
-            "Category4": "2. Gen ( 2013 - 2021)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 308 2.Gen Fließheck 2013–2021&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">P</span>PEUGEOT 308 2.Gen Fließheck 2013–2021<span style=\"color:#FF0000;\">&nbsp;</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -11380,38 +11444,6 @@
             "Category4": "V 177 Limousine"
         },
         "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für&nbsp;Mercedes-Benz<strong><u> A Klasse Limousine</u></strong> V177 ab 2019&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; Mercedes-Benz <u>A Klasse Limousine</u> V177 ab 2019</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "650",
-        "VariationSku.sku": "P_2008_2",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-peugeot-2008-2-gen-ab-2019-passgenaue-gummimatten",
-        "ItemDescription.name": "PEUGEOT 2008 (2.Gen) ab 2019  Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 2008 (2.Gen) ab 2019 passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,228,333,335",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "Peugeot 2008",
-            "Category4": "2. Gen ( seit 2020)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 2008 (2.Gen) ab 2019&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 2008 (2.Gen) ab 2019</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "649",
-        "VariationSku.sku": "P_2008_1",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-peugeot-2008-1-gen-2013-2019-passgenaue-gummimatten",
-        "ItemDescription.name": "PEUGEOT 2008 (1.Gen) 2013-2019 Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 2008 (1.Gen) 2013-2019 passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,228,333,334",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "Peugeot 2008",
-            "Category4": "1. Gen ( 2013 - 2019 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 2008 (1.Gen) 2013-2019&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; P<span style=\"color:#FF0000;\">EUGEOT 2008 (1.Gen) 2013-2019</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -14351,22 +14383,6 @@
             "Category4": "Q4"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: Audi Q4 e-tron ab 2021</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "655",
-        "VariationSku.sku": "P_5008_2",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-peugeot-5008-2-gen-ab-2017-passgenaue-gummimatten",
-        "ItemDescription.name": "PEUGEOT 5008 (2.gen) ab 2017 Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 5008 (2.gen) ab 2017  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,228,339,341",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "Peugeot 5008",
-            "Category4": "2. Gen ( seit 2017 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 5008 (2.gen) ab 2017&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 5008 (2.gen) ab 2017&nbsp;</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -19442,22 +19458,6 @@
             "Category3": "Ateca"
         },
         "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; SEAT ATECA&nbsp; &nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: SEAT ATECA</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "642",
-        "VariationSku.sku": "K_Pcnto_3",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-kia-picanto-3-gen-ab-2018-passgenaue-gummimatten",
-        "ItemDescription.name": "KIA Picanto  (3.Gen) ab 2018 Gummimatten. Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für KIA Picanto (3.Gen) ab 2018     passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,188,193,194",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Picanto",
-            "Category4": "3.Gen (2018 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA Picanto (3.Gen) ab 2018&nbsp;&nbsp;&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA Picanto (3.Gen) ab 2018&nbsp;</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
