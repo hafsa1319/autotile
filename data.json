@@ -1,5 +1,37 @@
 [
     {
+        "Item.id": "1208",
+        "VariationSku.sku": "RL_C3_2.Gen",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-citroen-c3-2-gen-2009-2017-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit CITROEN C3 2.Gen (2009 - 2017) Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit CITROEN C3 2.Gen (2009 - 2017) Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,105,106,490",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Citroën",
+            "Category3": "C3",
+            "Category4": "2.Gen (2009 - 2017)"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: CITROEN C3 2.Gen (2009 - 2017)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "921",
+        "VariationSku.sku": "TM_C3_2.Gen",
+        "ItemDescription.urlPath": "citroen-c3-2-gen-2009-2017-auto-gummimatten-autofussmatten",
+        "ItemDescription.name": "CITROEN C3 2.Gen (2009 - 2017)  Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D TRIMAK  Auto Fussmatten für  CITROEN C3 2.Gen (2009 - 2017) passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,105,106,490",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Citroën",
+            "Category3": "C3",
+            "Category4": "2.Gen (2009 - 2017)"
+        },
+        "ItemDescription.description": "<ul>\t<li>TRIMAK Auto Matten Fußmatten für&nbsp; CITROEN C3&nbsp;2.Gen (2009 - 2017) &nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"color:#ff0000;\"><span style=\"font-size:22px;\">Passend für: CITROEN C3 2.Gen (2009 - 2017)</span></span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
         "Item.id": "721",
         "VariationSku.sku": "",
         "ItemDescription.urlPath": "lebensmittel-alkolfreire-getranke/datteln-medjoul-premium-large-1-kg",
@@ -44,22 +76,6 @@
             "Category4": "Golf 7 ( 2013 - 2020 )"
         },
         "ItemDescription.description": "<ul>\t<li>Trimak Autoaccessoires 3D Autofußmatten für&nbsp;VW Golf 7 &amp; Golf 7 Variant (2012-2020) passgenaue&nbsp; Gummimatten, Automatten mit hohem rand c.a 5 cm</li>\t<li><span style=\"color:#FF0000;\"><span style=\"font-size:20px;\"><strong>Passend für:&nbsp;</strong></span></span>&nbsp;<strong><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\">VW Golf 7 &amp; Golf 7 Variant (2012-2020</span></span>)</strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "921",
-        "VariationSku.sku": "TM_C3_2.Gen",
-        "ItemDescription.urlPath": "citroen-c3-2-gen-2009-2017-auto-gummimatten-autofussmatten",
-        "ItemDescription.name": "CITROEN C3 2.Gen (2009 - 2017)  Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D TRIMAK  Auto Fussmatten für  CITROEN C3 2.Gen (2009 - 2017) passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,105,106,490",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Citroën",
-            "Category3": "C3",
-            "Category4": "2.Gen (2009 - 2017)"
-        },
-        "ItemDescription.description": "<ul>\t<li>TRIMAK Auto Matten Fußmatten für&nbsp; CITROEN C3&nbsp;2.Gen (2009 - 2017) &nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"color:#ff0000;\"><span style=\"font-size:22px;\">Passend für: CITROEN C3 2.Gen (2009 - 2017)</span></span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -21023,22 +21039,6 @@
             "Category4": "Duster 4X4 2.Gen (2018 ---)"
         },
         "ItemDescription.description": "<p><strong><span style=\"color:#ff0000;\"><span style=\"font-size:20px;\">Passend für:&nbsp; <span style=\"font-family: Helvetica neue, Helvetica, Verdana, sans-serif; font-weight: 700; background-color: rgb(248, 248, 248);\">DACIA DUSTER 4x4 2.Gen 2018 - 2022&nbsp;</span></span></span></strong></p> <ul>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1208",
-        "VariationSku.sku": "RL_C3_2.Gen",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-citroen-c3-2-gen-2009-2017-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit CITROEN C3 2.Gen (2009 - 2017) Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit CITROEN C3 2.Gen (2009 - 2017) Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,105,106,490",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Citroën",
-            "Category3": "C3",
-            "Category4": "2.Gen (2009 - 2017)"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: CITROEN C3 2.Gen (2009 - 2017)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
