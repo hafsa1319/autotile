@@ -1,18 +1,50 @@
 [
     {
-        "Item.id": "1220",
-        "VariationSku.sku": "RL_Sandero_3",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-dacia-sandero-3-gen-ab-2021-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit DACIA SANDERO 3.Gen ab 2021 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit DACIA SANDERO 3.Gen ab 2021 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,119,130,491",
+        "Item.id": "816",
+        "VariationSku.sku": "TM_Skd_Okt2",
+        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-skoda-octavia-ii-typ-1z-2004-2012-passgenaue-mit-hohem-rand",
+        "ItemDescription.name": "TRIMAK Skoda Octavia II (Typ 1Z) (2004-2012) Autofußmatten Gummimatten",
+        "ItemDescription.name2": "TRIMAK  Automatten 3D Gummimatten Fußmatten kompatibel mit  Skoda Octavia II (Typ 1Z) (2004-2012) passgenaue mit hohem Rand ",
+        "VariationCategory.allCategoryIds": "23,232,380,381",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Dacia",
-            "Category3": "Sandero",
-            "Category4": "3.Gen ab 2021"
+            "Category2": "Skoda",
+            "Category3": "Octavia",
+            "Category4": "II (2004 - 2012 )"
         },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: DACIA SANDERO 3.Gen ab 2021</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "ItemDescription.description": "<ul>\t<li>TRIMAK&nbsp; Automatten 3D Gummimatten Fußmatten kompatibel mit&nbsp; Skoda Octavia II (Typ 1Z) (2004-2012) passgenaue mit hohem Rand&nbsp;</li>\t<li><span style=\"color:#FF0000;\"><strong><span style=\"font-size:20px;\">Passend für:&nbsp;&nbsp;Skoda Octavia II (Typ 1Z) (2004-2012)</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1416",
+        "VariationSku.sku": "RL_Octavia_2",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-skoda-octavia-ii-1z-2004-2012-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit Skoda Octavia II (1Z) 2004-2012 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit Skoda Octavia II (1Z) 2004-2012  Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,232,380,381",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Skoda",
+            "Category3": "Octavia",
+            "Category4": "II (2004 - 2012 )"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Skoda Octavia II (1Z) 2004-2012&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "813",
+        "VariationSku.sku": "TM_Focus_4.gen",
+        "ItemDescription.urlPath": "trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-ford-focus-4-generation-ab-2018-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "Trimak FORD  FOCUS 4.Gen. ab 2018  Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "Trimak  Automatten 3D Gummimatten Fußmatten kompatibel mit   FORD  FOCUS 4.Generation  ab 2018  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,143,153,155",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "Focus",
+            "Category4": "4.Gen ( ab 2018 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li>Trimak&nbsp; Automatten 3D Gummimatten Fußmatten kompatibel mit&nbsp; &nbsp;FORD&nbsp; FOCUS 4.Generation&nbsp; ab 2018&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\">Passend für: &nbsp;FORD&nbsp; FOCUS&nbsp;4.Generation&nbsp; ab 2018</span></span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -29,6 +61,38 @@
             "Category4": "3.Gen ab 2021"
         },
         "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für&nbsp;DACIA SANDERO 3.Gen ab 2021&nbsp;&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <strong><span style=\"color:#FF0000;\">DACIA DSANDERO 3.Gen ab 2021</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "2823",
+        "VariationSku.sku": "Set_Focus_4_O",
+        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-ford-focus-4-gen-kombi-obere-2018-2024",
+        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Ford Focus 4.Gen Kombi Obere 2018 - 2024",
+        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Ford Focus 4.Gen Kombi Obere 2018 - 2024 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
+        "VariationCategory.allCategoryIds": "23,143,153,155",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "Focus",
+            "Category4": "4.Gen ( ab 2018 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Ford Focus 4.Gen Kombi Obere 2018 - 2024&nbsp;Kofferraumwanne</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1220",
+        "VariationSku.sku": "RL_Sandero_3",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-dacia-sandero-3-gen-ab-2021-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit DACIA SANDERO 3.Gen ab 2021 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit DACIA SANDERO 3.Gen ab 2021 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,119,130,491",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Dacia",
+            "Category3": "Sandero",
+            "Category4": "3.Gen ab 2021"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: DACIA SANDERO 3.Gen ab 2021</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -2092,22 +2156,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "813",
-        "VariationSku.sku": "TM_Focus_4.gen",
-        "ItemDescription.urlPath": "trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-ford-focus-4-generation-ab-2018-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "Trimak FORD  FOCUS 4.Gen. ab 2018  Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "Trimak  Automatten 3D Gummimatten Fußmatten kompatibel mit   FORD  FOCUS 4.Generation  ab 2018  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,143,153,155",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Focus",
-            "Category4": "4.Gen ( ab 2018 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li>Trimak&nbsp; Automatten 3D Gummimatten Fußmatten kompatibel mit&nbsp; &nbsp;FORD&nbsp; FOCUS 4.Generation&nbsp; ab 2018&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\">Passend für: &nbsp;FORD&nbsp; FOCUS&nbsp;4.Generation&nbsp; ab 2018</span></span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1215",
         "VariationSku.sku": "TM_Duster_4X4_1",
         "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-dacia-duster-4x4-1-gen-2010-2017-auto-allwetter-gummimatten",
@@ -2372,22 +2420,6 @@
             "Category4": "E84 (2010 - 2015)"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;BMW X1 E84 2009 - 2015</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "2823",
-        "VariationSku.sku": "Set_Focus_4_O",
-        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-ford-focus-4-gen-kombi-obere-2018-2024",
-        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Ford Focus 4.Gen Kombi Obere 2018 - 2024",
-        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Ford Focus 4.Gen Kombi Obere 2018 - 2024 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
-        "VariationCategory.allCategoryIds": "23,143,153,155",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Focus",
-            "Category4": "4.Gen ( ab 2018 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Ford Focus 4.Gen Kombi Obere 2018 - 2024&nbsp;Kofferraumwanne</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -14972,22 +15004,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "816",
-        "VariationSku.sku": "TM_Skd_Okt2",
-        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-skoda-octavia-ii-typ-1z-2004-2012-passgenaue-mit-hohem-rand",
-        "ItemDescription.name": "TRIMAK Skoda Octavia II (Typ 1Z) (2004-2012) Autofußmatten Gummimatten",
-        "ItemDescription.name2": "TRIMAK  Automatten 3D Gummimatten Fußmatten kompatibel mit  Skoda Octavia II (Typ 1Z) (2004-2012) passgenaue mit hohem Rand ",
-        "VariationCategory.allCategoryIds": "23,232,380,381",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Skoda",
-            "Category3": "Octavia",
-            "Category4": "II (2004 - 2012 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>TRIMAK&nbsp; Automatten 3D Gummimatten Fußmatten kompatibel mit&nbsp; Skoda Octavia II (Typ 1Z) (2004-2012) passgenaue mit hohem Rand&nbsp;</li>\t<li><span style=\"color:#FF0000;\"><strong><span style=\"font-size:20px;\">Passend für:&nbsp;&nbsp;Skoda Octavia II (Typ 1Z) (2004-2012)</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1568",
         "VariationSku.sku": "KF_Ateca",
         "ItemDescription.urlPath": "trimak-kofferraumwanne-kompatibel-mit-seat-ateca-ab-2016-kofferraummatte",
@@ -20282,22 +20298,6 @@
             "Category3": "W 203 (2000 - 2007)"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;MERCEDES C-Klasse W203 (2000-2007)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1416",
-        "VariationSku.sku": "RL_Octavia_2",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-skoda-octavia-ii-1z-2004-2012-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit Skoda Octavia II (1Z) 2004-2012 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit Skoda Octavia II (1Z) 2004-2012  Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,232,380,381",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Skoda",
-            "Category3": "Octavia",
-            "Category4": "II (2004 - 2012 )"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Skoda Octavia II (1Z) 2004-2012&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
