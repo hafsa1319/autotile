@@ -1,5 +1,21 @@
 [
     {
+        "Item.id": "562",
+        "VariationSku.sku": "X3_F25",
+        "ItemDescription.urlPath": "3d-gummimatten-auto-fussmatten-fuer-bmw-x3-f25-2010-2017-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "BMW X3 (F25) (2010–2017)  Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für MW X3 (F25)(2010–2017)  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,74,96,97",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "BMW",
+            "Category3": "X3",
+            "Category4": "F25 (2010 - 2017)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp;BMW X3 (F25) (2010–2017) passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; BMW X3 (F25) (2010–2017)</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
         "Item.id": "1138",
         "VariationSku.sku": "TM_X3_F25",
         "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-bmw-x3-f25-2010-2017-auto-allwetter-gummimatten",
@@ -16073,22 +16089,6 @@
             "Category3": "Ateca"
         },
         "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp; SEAT ATECA&nbsp; &nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für: SEAT ATECA</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "562",
-        "VariationSku.sku": "X3_F25",
-        "ItemDescription.urlPath": "3d-gummimatten-auto-fussmatten-fuer-bmw-x3-f25-2010-2017-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "BMW X3 (F25) (2010–2017)  Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für MW X3 (F25)(2010–2017)  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,74,96,97",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "BMW",
-            "Category3": "X3",
-            "Category4": "F25 (2010 - 2017)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp;BMW X3 (F25) (2010–2017) passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; BMW X3 (F25) (2010–2017)</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
