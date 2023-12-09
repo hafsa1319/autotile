@@ -1,5 +1,68 @@
 [
     {
+        "Item.id": "712",
+        "VariationSku.sku": "Golf_4",
+        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/auto-fussmatten-fuer-vw-golf-iv-1997-2004-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "VW Golf IV  (1997 - 2004) Autofußmatten Gmmimatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für VW Golf IV  1997-2004 passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,234,404,406",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Golf",
+            "Category4": "Golf 4 (1997 - 2004 )"
+        },
+        "ItemDescription.description": "<ul>\t<li style=\"margin-left: 18pt;\">3D Gummimatten Auto Matten Fussmatten für&nbsp;VW Golf IV&nbsp; 1997-2004&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li style=\"margin-left: 18pt;\"><span style=\"font-size:18px;\"><em><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;VW Golf IV&nbsp; (1997-2004)</span></strong></em></span></li>\t<li style=\"margin-left: 18pt;\">4-teilig (2 x vorn, 2 x hinten)</li>\t<li style=\"margin-left: 18pt;\">Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li style=\"margin-left: 18pt;\">Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li style=\"margin-left: 18pt;\">Geruchs frei</li>\t<li style=\"margin-left: 18pt;\">Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li style=\"margin-left: 18pt;\">Passganeuigkeitszertifikät&nbsp;</li>\t<li style=\"margin-left: 18pt;\">Es verursacht keine Allergien.</li>\t<li style=\"margin-left: 18pt;\">Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li style=\"margin-left: 18pt;\">Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li style=\"margin-left: 18pt;\">Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li style=\"margin-left: 18pt;\">Nicht deformierbar.</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1206",
+        "VariationSku.sku": "RL_C1_1.Gen",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-citroen-c1-1-gen-2005-2014-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit Citroen C1 1. Gen. (2005–2014) Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit Citroen C1 1. Gen. (2005–2014) Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,105,499,500",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Citroën",
+            "Category3": "C1",
+            "Category4": "1. Generation (2005–2014)"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: Citroen C1 1. Gen. (2005–2014)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1493",
+        "VariationSku.sku": "RL_Bora",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-vw-bora-1998-2005-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005  Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,234,578",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Bora"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW BORA 1998-2005&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1442",
+        "VariationSku.sku": "RL_Aygo_1",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-toyota-aygo-1-gen-2005-2014-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit Toyota Aygo 1.Gen. 2005-2014 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit Toyota Aygo 1.Gen. 2005-2014 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,233,503,504",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Toyota",
+            "Category3": "Aygo",
+            "Category4": "1. Generation (2005–2014)"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Toyota Aygo 1.Gen. 2005-2014</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
         "Item.id": "935",
         "VariationSku.sku": "TM_Aygo_1.Gen",
         "ItemDescription.urlPath": "toyota-aygo-1-generation-2005-2014",
@@ -15584,22 +15647,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "712",
-        "VariationSku.sku": "Golf_4",
-        "ItemDescription.urlPath": "autoteile-zubehoer/fussmatten/auto-fussmatten-fuer-vw-golf-iv-1997-2004-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "VW Golf IV  (1997 - 2004) Autofußmatten Gmmimatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für VW Golf IV  1997-2004 passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,234,404,406",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Golf",
-            "Category4": "Golf 4 (1997 - 2004 )"
-        },
-        "ItemDescription.description": "<ul>\t<li style=\"margin-left: 18pt;\">3D Gummimatten Auto Matten Fussmatten für&nbsp;VW Golf IV&nbsp; 1997-2004&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li style=\"margin-left: 18pt;\"><span style=\"font-size:18px;\"><em><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;VW Golf IV&nbsp; (1997-2004)</span></strong></em></span></li>\t<li style=\"margin-left: 18pt;\">4-teilig (2 x vorn, 2 x hinten)</li>\t<li style=\"margin-left: 18pt;\">Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li style=\"margin-left: 18pt;\">Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li style=\"margin-left: 18pt;\">Geruchs frei</li>\t<li style=\"margin-left: 18pt;\">Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li style=\"margin-left: 18pt;\">Passganeuigkeitszertifikät&nbsp;</li>\t<li style=\"margin-left: 18pt;\">Es verursacht keine Allergien.</li>\t<li style=\"margin-left: 18pt;\">Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li style=\"margin-left: 18pt;\">Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li style=\"margin-left: 18pt;\">Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li style=\"margin-left: 18pt;\">Nicht deformierbar.</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "778",
         "VariationSku.sku": "VW_e-Golf",
         "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-vw-e-golf-2014-2020-passgenaue-gummimatten",
@@ -19117,22 +19164,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1442",
-        "VariationSku.sku": "RL_Aygo_1",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-toyota-aygo-1-gen-2005-2014-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit Toyota Aygo 1.Gen. 2005-2014 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit Toyota Aygo 1.Gen. 2005-2014 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,233,503,504",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Toyota",
-            "Category3": "Aygo",
-            "Category4": "1. Generation (2005–2014)"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Toyota Aygo 1.Gen. 2005-2014</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1457",
         "VariationSku.sku": "RL_Golf_8_A",
         "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-vw-golf-8-viii-automatik-getriebe-ab-2020-autofussmatten-auto-allwetter",
@@ -19533,22 +19564,6 @@
             "Category4": "E 87 2005 - 2010"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;BMW 1ér (E87, E81, E82,) 2004 - 2011</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1206",
-        "VariationSku.sku": "RL_C1_1.Gen",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-citroen-c1-1-gen-2005-2014-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit Citroen C1 1. Gen. (2005–2014) Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit Citroen C1 1. Gen. (2005–2014) Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,105,499,500",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Citroën",
-            "Category3": "C1",
-            "Category4": "1. Generation (2005–2014)"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: Citroen C1 1. Gen. (2005–2014)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -20108,21 +20123,6 @@
             "Category4": "Manuell"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf 8 (VIII) **Manuell Getriebe** ab 2020</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1493",
-        "VariationSku.sku": "RL_Bora",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-vw-bora-1998-2005-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005  Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,234,578",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Bora"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW BORA 1998-2005&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
