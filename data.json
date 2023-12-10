@@ -1,5 +1,52 @@
 [
     {
+        "Item.id": "1158",
+        "VariationSku.sku": "",
+        "ItemDescription.urlPath": "lebensmittel-alkolfreire-getranke/jumbo-medjool-datteln-5-kg-schwefelfreie-zarte-hoechste-qualitaet-naturbelassen",
+        "ItemDescription.name": " Jumbo Medjool Datteln 5 KG, Schwefelfreie, Zarte, höchste Qualität,Naturbelassen",
+        "ItemDescription.name2": "Medjool Datteln 5 KG, Class1 Jumbo Schwefelfreie, Zarte, höchste Qualität,Naturbelassen",
+        "VariationCategory.allCategoryIds": "31,150,454",
+        "VariationCategory.allCategories": {
+            "Category1": "Lebensmittel & alkolfreire Getranke",
+            "Category2": "Dattel",
+            "Category3": "Medjool"
+        },
+        "ItemDescription.description": "<ul class=\"a-unordered-list a-vertical a-spacing-none\" style=\"box-sizing: border-box; margin: 0px 0px 0px 18px; color: rgb(17, 17, 17); padding: 0px; font-family: Amazon Ember, Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);\">\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\"><span style=\"color: rgb(17, 17, 17); font-family: Amazon Ember, Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);\">Medjool Datteln 5 KG, Jumbo Schwefelfreie, Zarte, höchste Qualität,Naturbelassen</span></li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Hochqualität</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Naturbelassen: Medjoul Datteln sind das natürlich süße Geschmackserlebnis</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Datteln enthalten wertvolle Mineralstoffe (z.B. Calcium, Magnesium und Kalium)</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Süsse Energiquelle</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Vorteil Paket 5 KG</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Bitte in den Sommermonaten KÜHLLAGERN oder einfrieren</li></ul> <p>&nbsp;</p>",
+        "VariationSku.marketId": ""
+    },
+    {
+        "Item.id": "767",
+        "VariationSku.sku": "Mtsbsh_Outlnd_3",
+        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-mitsubishi-outlander-3-gen-seit-2013-passgenaue-gummimatten",
+        "ItemDescription.name": "MITSUBISHI Outlander 3.Gen  (2013 - 2019)  Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fußmatten für  MITSUBISHI Outlander 3.Gen (2013 - 2019) passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,225,282,283",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Mitsubishi",
+            "Category3": "Outlander",
+            "Category4": "3. Gen (2013 - 2019)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für MITSUBISHI Outlander 3.Gen&nbsp; (2013 - 2019)&nbsp;<b><u> </u></b>passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:22px;\"><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;MITSUBISHI Outlander 3.Gen&nbsp; (2013 - 2019) (nicht Hybrid)</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li>Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li>Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li>Nicht deformierbar.</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1335",
+        "VariationSku.sku": "TM_Outlander_3",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-mitsubishi-outlander-3-gen-2013-2019-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit MITSUBISHI Outlander 3.Gen  (2013 - 2019) Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit MITSUBISHI Outlander 3.Gen  (2013 - 2019) Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,225,282,283",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Mitsubishi",
+            "Category3": "Outlander",
+            "Category4": "3. Gen (2013 - 2019)"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;MITSUBISHI Outlander 3.Gen &nbsp;(2013 - 2019)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
         "Item.id": "2839",
         "VariationSku.sku": "Set_Ecosport_U",
         "ItemDescription.urlPath": "3d-fussmatten-untere-kofferraumwanne-auto-set-kompatibel-mit-ford-ecosport-2012-2023",
@@ -1312,22 +1359,6 @@
             "Category3": "Vito"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Mercedes Benz Vito W447 ab 2014</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1335",
-        "VariationSku.sku": "TM_Outlander_3",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-mitsubishi-outlander-3-gen-2013-2019-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit MITSUBISHI Outlander 3.Gen  (2013 - 2019) Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit MITSUBISHI Outlander 3.Gen  (2013 - 2019) Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,225,282,283",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Mitsubishi",
-            "Category3": "Outlander",
-            "Category4": "3. Gen (2013 - 2019)"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;MITSUBISHI Outlander 3.Gen &nbsp;(2013 - 2019)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -8364,22 +8395,6 @@
             "Category4": "Golf 7 ( 2013 - 2020 )"
         },
         "ItemDescription.description": "<p>&nbsp;</p> <ul>\t<li style=\"margin-left:8px\"><span style=\"font-size:12pt\"><span style=\"background:white\"><span style=\"tab-stops:list 36.0pt\"><span style=\"font-family:Calibri,sans-serif\"><span lang=\"DE\" style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">Velours Fußmatten passend für Golf 7 (2013 - 2020)</span></span></span></span></span></span></span></li>\t<li style=\"margin-left:8px\"><span style=\"font-size:12pt\"><span style=\"background:white\"><span style=\"tab-stops:list 36.0pt\"><span style=\"font-family:Calibri,sans-serif\"><span lang=\"DE\" style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">Passgenau Velours Autoteppich</span></span></span></span></span></span></span></li>\t<li style=\"margin-left:8px\"><span style=\"font-size:12pt\"><span style=\"background:white\"><span style=\"tab-stops:list 36.0pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">2 Fussmatten vorn und 2 Fussmatten hinten</span></span></span></span></span></span></span></li>\t<li style=\"margin-left:8px\"><span style=\"font-size:12pt\"><span style=\"background:white\"><span style=\"tab-stops:list 36.0pt\"><span style=\"font-family:Calibri,sans-serif\"><span lang=\"DE\" style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">Farbe: </span></span></span><span style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">Schwarz</span></span></span></span></span></span></span></li>\t<li style=\"margin-left:8px\"><span style=\"font-size:12pt\"><span style=\"background:white\"><span style=\"tab-stops:list 36.0pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">Hochfrequenz-Elektroschweißen aufgetragenem Absatzschutz an den Stellen, die starker Abnutzung ausgesetzt sind</span></span></span></span></span></span></span></li>\t<li style=\"margin-left:8px\"><span style=\"font-size:12pt\"><span style=\"background:white\"><span style=\"tab-stops:list 36.0pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">Deutsche Marke</span></span></span><span lang=\"DE\" style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">, </span></span></span></span></span></span></span></li>\t<li style=\"margin-left:8px\"><span style=\"font-size:12pt\"><span style=\"background:white\"><span style=\"tab-stops:list 36.0pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">Hergestellt in der Türkei</span></span></span><span lang=\"DE\" style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">. </span></span></span></span></span></span></span></li>\t<li style=\"margin-left:8px\"><span style=\"font-size:12pt\"><span style=\"background:white\"><span style=\"tab-stops:list 36.0pt\"><span style=\"font-family:Calibri,sans-serif\"><span lang=\"DE\" style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">H</span></span></span><span style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\">ochwertigem Polypropylen</span></span></span><span lang=\"DE\" style=\"font-size:10.5pt\"><span style=\"font-family:Arial,sans-serif\"><span style=\"color:#0f1111\"> Velour</span></span></span></span></span></span></span></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "767",
-        "VariationSku.sku": "Mtsbsh_Outlnd_3",
-        "ItemDescription.urlPath": "autoteile-zubehoer/3d-auto-fussmatten-kompatibel-mit-mitsubishi-outlander-3-gen-seit-2013-passgenaue-gummimatten",
-        "ItemDescription.name": "MITSUBISHI Outlander 3.Gen  (2013 - 2019)  Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fußmatten für  MITSUBISHI Outlander 3.Gen (2013 - 2019) passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,225,282,283",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Mitsubishi",
-            "Category3": "Outlander",
-            "Category4": "3. Gen (2013 - 2019)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fußmatten für MITSUBISHI Outlander 3.Gen&nbsp; (2013 - 2019)&nbsp;<b><u> </u></b>passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:22px;\"><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;MITSUBISHI Outlander 3.Gen&nbsp; (2013 - 2019) (nicht Hybrid)</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li>Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li>Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li>Nicht deformierbar.</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -20418,21 +20433,6 @@
         },
         "ItemDescription.description": "<p>&nbsp; &nbsp;&nbsp;</p> <ul>\t<li>Passend für: Volkswagen POLO IV (4)&nbsp; 2002 - 2009</li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikat&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1158",
-        "VariationSku.sku": "",
-        "ItemDescription.urlPath": "lebensmittel-alkolfreire-getranke/jumbo-medjool-datteln-5-kg-schwefelfreie-zarte-hoechste-qualitaet-naturbelassen",
-        "ItemDescription.name": " Jumbo Medjool Datteln 5 KG, Schwefelfreie, Zarte, höchste Qualität,Naturbelassen",
-        "ItemDescription.name2": "Medjool Datteln 5 KG, Class1 Jumbo Schwefelfreie, Zarte, höchste Qualität,Naturbelassen",
-        "VariationCategory.allCategoryIds": "31,150,454",
-        "VariationCategory.allCategories": {
-            "Category1": "Lebensmittel & alkolfreire Getranke",
-            "Category2": "Dattel",
-            "Category3": "Medjool"
-        },
-        "ItemDescription.description": "<ul class=\"a-unordered-list a-vertical a-spacing-none\" style=\"box-sizing: border-box; margin: 0px 0px 0px 18px; color: rgb(17, 17, 17); padding: 0px; font-family: Amazon Ember, Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);\">\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\"><span style=\"color: rgb(17, 17, 17); font-family: Amazon Ember, Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);\">Medjool Datteln 5 KG, Jumbo Schwefelfreie, Zarte, höchste Qualität,Naturbelassen</span></li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Hochqualität</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Naturbelassen: Medjoul Datteln sind das natürlich süße Geschmackserlebnis</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Datteln enthalten wertvolle Mineralstoffe (z.B. Calcium, Magnesium und Kalium)</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Süsse Energiquelle</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Vorteil Paket 5 KG</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">Bitte in den Sommermonaten KÜHLLAGERN oder einfrieren</li></ul> <p>&nbsp;</p>",
-        "VariationSku.marketId": ""
     },
     {
         "Item.id": "712",
