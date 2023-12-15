@@ -1,5 +1,53 @@
 [
     {
+        "Item.id": "1001",
+        "VariationSku.sku": "KF_Sandero_3",
+        "ItemDescription.urlPath": "dacia-sandero-3-gen-seit-2021-kofferraumwanne-kofferraummatte",
+        "ItemDescription.name": "Dacia Sandero 3.Gen seit 2021 Kofferraumwanne Kofferraummatte",
+        "ItemDescription.name2": "Trimak Passgenau 3D Kofferraumwanne Kompatibel mit Dacia Sandero 3. Gen ab 2021 Kofferraummatte Schutzmatte Auto Zubehör Antirutschmatte Kantenschutz TPE Gummi Dauerhaft Schwarz",
+        "VariationCategory.allCategoryIds": "23,119,130,491",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Dacia",
+            "Category3": "Sandero",
+            "Category4": "3.Gen ab 2021"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:22px;\"><strong><span style=\"color:#ff0000;\">Passend für:&nbsp;Dacia Sandero 3. Gen ab 2021&nbsp;</span></strong></span></li>\t<li><strong>Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Kofferraumwanne bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Kofferraumwanne mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Kofferraumwannen Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1387",
+        "VariationSku.sku": "TM_P_5008_2",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-peugeot-5008-2-gen-ab-2017-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit PEUGEOT 5008 2.Gen ab 2017 Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit PEUGEOT 5008 2.Gen ab 2017 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,228,339,341",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Peugeot",
+            "Category3": "Peugeot 5008",
+            "Category4": "2. Gen ( seit 2017 )"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;PEUGEOT 5008 2.Gen ab 2017</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "655",
+        "VariationSku.sku": "P_5008_2",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-5008-2-gen-ab-2017-passgenaue-gummimatten",
+        "ItemDescription.name": "PEUGEOT 5008 (2.gen) ab 2017 Autofußmatten Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 5008 (2.gen) ab 2017  passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,228,339,341",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Peugeot",
+            "Category3": "Peugeot 5008",
+            "Category4": "2. Gen ( seit 2017 )"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 5008 (2.gen) ab 2017&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 5008 (2.gen) ab 2017&nbsp;</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
         "Item.id": "903",
         "VariationSku.sku": "KF_Taycan",
         "ItemDescription.urlPath": "trimak-3d-passgenaue-kofferraumwanne-kompatibel-mit-porsche-taycan",
@@ -1097,22 +1145,6 @@
             "Category4": "2. Gen ( 2013 -2021 )"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Nissan Qashqai 2.Gen 2014 - 2021</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1387",
-        "VariationSku.sku": "TM_P_5008_2",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-peugeot-5008-2-gen-ab-2017-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit PEUGEOT 5008 2.Gen ab 2017 Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit PEUGEOT 5008 2.Gen ab 2017 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,228,339,341",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "Peugeot 5008",
-            "Category4": "2. Gen ( seit 2017 )"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;PEUGEOT 5008 2.Gen ab 2017</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -10486,22 +10518,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1001",
-        "VariationSku.sku": "KF_Sandero_3",
-        "ItemDescription.urlPath": "dacia-sandero-3-gen-seit-2021-kofferraumwanne-kofferraummatte",
-        "ItemDescription.name": "Dacia Sandero 3.Gen seit 2021 Kofferraumwanne Kofferraummatte",
-        "ItemDescription.name2": "Trimak Passgenau 3D Kofferraumwanne Kompatibel mit Dacia Sandero 3. Gen ab 2021 Kofferraummatte Schutzmatte Auto Zubehör Antirutschmatte Kantenschutz TPE Gummi Dauerhaft Schwarz",
-        "VariationCategory.allCategoryIds": "23,119,130,491",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Dacia",
-            "Category3": "Sandero",
-            "Category4": "3.Gen ab 2021"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:22px;\"><strong><span style=\"color:#ff0000;\">Passend für:&nbsp;Dacia Sandero 3. Gen ab 2021&nbsp;</span></strong></span></li>\t<li><strong>Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Kofferraumwanne bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Kofferraumwanne mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Kofferraumwannen Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "984",
         "VariationSku.sku": "TM_Corolla_HB_E210",
         "ItemDescription.urlPath": "toyota-corolla-hb-e210-seit-2018-autofussmatten-auto-gummimatten",
@@ -15802,22 +15818,6 @@
             "Category4": "3.Gen ( 2019 ---)"
         },
         "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI&nbsp; i10&nbsp; (3.Gen) ab 2019&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; HYUNDAI&nbsp; i10&nbsp; ( 3.Gen ) ab 2019&nbsp;</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "655",
-        "VariationSku.sku": "P_5008_2",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-5008-2-gen-ab-2017-passgenaue-gummimatten",
-        "ItemDescription.name": "PEUGEOT 5008 (2.gen) ab 2017 Autofußmatten Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für PEUGEOT 5008 (2.gen) ab 2017  passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,228,339,341",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Peugeot",
-            "Category3": "Peugeot 5008",
-            "Category4": "2. Gen ( seit 2017 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für PEUGEOT 5008 (2.gen) ab 2017&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">PEUGEOT 5008 (2.gen) ab 2017&nbsp;</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
