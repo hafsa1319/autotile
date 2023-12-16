@@ -1,45 +1,34 @@
 [
     {
-        "Item.id": "1558",
-        "VariationSku.sku": "TM_Swift_6",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-suzuki-swift-6-gen-rz-az-ab-2017-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit SUZUKI Swift 6.Gen RZ/AZ ab 2017 Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit SUZUKI Swift 6.Gen RZ/AZ ab 2017 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,595",
+        "Item.id": "703",
+        "VariationSku.sku": "Focus_3",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-ford-focus-2010-2014-passgenaue-gummimatten",
+        "ItemDescription.name": "FORD Focus ( 3.Gen. A Series) (2010-2014) Auto Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für FORD Focus 2010-2014  passgenaue Gummimatten mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,143,153,154",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Swift 6.Gen ab 2017"
+            "Category2": "Ford",
+            "Category3": "Focus",
+            "Category4": "3.Gen (2010 - 2018)"
         },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;SUZUKI Swift 6.Gen RZ/AZ ab 2017</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp;FORD Focus 2010-2014&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><em><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; FORD Focus 2010-2014</span></strong></em></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1563",
-        "VariationSku.sku": "RL_Swift_6",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-suzuki-swift-6-gen-ab-2017-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit SUZUKI Swift 6.Gen ab 2017 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit SUZUKI Swift 6.Gen ab 2017 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,595",
+        "Item.id": "1236",
+        "VariationSku.sku": "TM_Focus_3A",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-ford-focus-3-gen-a-series-2010-2014-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit FORD Focus 3.Gen. A Series (2010-2014) Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit FORD Focus 3.Gen. A Series (2010-2014) Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,143,153,154",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Swift 6.Gen ab 2017"
+            "Category2": "Ford",
+            "Category3": "Focus",
+            "Category4": "3.Gen (2010 - 2018)"
         },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;SUZUKI Swift 6.Gen ab 2017 (RZ/AZ)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1334",
-        "VariationSku.sku": "TM_Coutryman",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-mini-countryman-2-generation-seit-2017-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit MINI Countryman 2.Generation (seit 2017) Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit MINI Countryman 2.Generation (seit 2017) Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,224,279",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Mini",
-            "Category3": "Countryman"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;MINI Countryman 2.Generation (seit 2017)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: FORD Focus 3.Gen. A Series (2010-2014)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -781,22 +770,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "2823",
-        "VariationSku.sku": "Set_Focus_4_O",
-        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-ford-focus-4-gen-kombi-obere-2018-2024",
-        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Ford Focus 4.Gen Kombi Obere 2018 - 2024",
-        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Ford Focus 4.Gen Kombi Obere 2018 - 2024 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
-        "VariationCategory.allCategoryIds": "23,143,153,155",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Focus",
-            "Category4": "4.Gen ( ab 2018 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Ford Focus 4.Gen Kombi Obere 2018 - 2024&nbsp;Kofferraumwanne</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1215",
         "VariationSku.sku": "TM_Duster_4X4_1",
         "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-dacia-duster-4x4-1-gen-2010-2017-auto-allwetter-gummimatten",
@@ -1142,22 +1115,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1236",
-        "VariationSku.sku": "TM_Focus_3A",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-ford-focus-3-gen-a-series-2010-2014-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit FORD Focus 3.Gen. A Series (2010-2014) Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit FORD Focus 3.Gen. A Series (2010-2014) Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,143,153,154",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Focus",
-            "Category4": "3.Gen (2010 - 2018)"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: FORD Focus 3.Gen. A Series (2010-2014)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "2834",
         "VariationSku.sku": "Set_Duster_4X4_1",
         "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-dacia-duster-4x4-1-gen-2010-2028",
@@ -1201,21 +1158,6 @@
             "Category3": "Transit-Tourneo"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: FORD Transit Connect 1.Gen. (2003-2012)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "2840",
-        "VariationSku.sku": "Set_Ecosport_O",
-        "ItemDescription.urlPath": "3d-fussmatten-obere-kofferraumwanne-auto-set-kompatibel-mit-ford-ecosport-2012-2023",
-        "ItemDescription.name": "3D Fußmatten & Obere Kofferraumwanne Auto Set Kompatibel mit Ford Ecosport 2012 - 2023",
-        "ItemDescription.name2": "3D Fußmatten & Obere Kofferraumwanne Auto Set Kompatibel mit  Ford Ecosport 2012 - 2023 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
-        "VariationCategory.allCategoryIds": "23,143,148",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "EcoSport"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Ford Ecosport 2012 - 2023 Obere Kofferraumwanne und Fußmatten</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -1293,21 +1235,6 @@
             "Category3": "5.Gen (2014 --- )"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: FORD Mondeo 5.Gen. (Typ Ba7) 2014 -2022&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "2837",
-        "VariationSku.sku": "Set_Puma_O",
-        "ItemDescription.urlPath": "fussmatten-obere-kofferraumwanne-auto-set-kompatibel-mit-ford-puma-2019-2024",
-        "ItemDescription.name": "Fußmatten & Obere Kofferraumwanne Auto Set Kompatibel mit Ford Puma 2019 - 2024",
-        "ItemDescription.name2": "3D Fußmatten & Obere Kofferraumwanne Auto Set Kompatibel mit Ford Puma 2019 - 2024 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
-        "VariationCategory.allCategoryIds": "23,143,164",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Puma"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Ford Puma 2019 - 2024 Obere Kofferraumwanne und Fußmatten</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -2630,22 +2557,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "2912",
-        "VariationSku.sku": "Set_Golf_4_HB",
-        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-vw-golf-iv-1997-2004",
-        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit VW Golf IV 1997 - 2004",
-        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mitVW Golf IV 1997 - 2004 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
-        "VariationCategory.allCategoryIds": "23,234,404,406",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Golf",
-            "Category4": "Golf 4 (1997 - 2004 )"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf IV 1997 - 2004</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "2915",
         "VariationSku.sku": "Set_Polo_6_U",
         "ItemDescription.urlPath": "3d-fussmatten-untere-kofferraumwanne-auto-set-kompatibel-mit-vw-polo-vi-2017-2024",
@@ -3343,21 +3254,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "2838",
-        "VariationSku.sku": "Set_Puma_U",
-        "ItemDescription.urlPath": "fussmatten-untere-kofferraumwanne-auto-set-kompatibel-mit-ford-puma-2019-2024",
-        "ItemDescription.name": "Fußmatten & Untere Kofferraumwanne Auto Set Kompatibel mit Ford Puma 2019 - 2024",
-        "ItemDescription.name2": "3D Fußmatten & Untere Kofferraumwanne Auto Set Kompatibel mit Ford Puma 2019 - 2024 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
-        "VariationCategory.allCategoryIds": "23,143,164",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Puma"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Ford Puma 2019 - 2024 Untere Kofferraumwanne und Fußmatten</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "2836",
         "VariationSku.sku": "Set_Kuga_1",
         "ItemDescription.urlPath": "fussmatten-kofferraumwanne-auto-set-kompatibel-mit-ford-kuga-1-gen-2008-2012",
@@ -3806,22 +3702,6 @@
             "Category3": "XC40"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Volvo XC40 2017 - 2024</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1462",
-        "VariationSku.sku": "TM_Golf_4",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-golf-iv-1997-2004-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit VW Golf IV 1997 - 2004 Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit VW Golf IV 1997 - 2004 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,234,404,406",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Golf",
-            "Category4": "Golf 4 (1997 - 2004 )"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf IV &nbsp;(1997 - 2004)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -4443,21 +4323,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1494",
-        "VariationSku.sku": "TM_Bora",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-bora-1998-2005-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit VW BORA 1998-2005 Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit VW BORA 1998-2005 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,234,578",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Bora"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW BORA 1998-2005</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1470",
         "VariationSku.sku": "TM_Beetle_2",
         "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-new-beetle-ab-2011-auto-allwetter-gummimatten",
@@ -4715,22 +4580,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "812",
-        "VariationSku.sku": "TM_Tiguan_2",
-        "ItemDescription.urlPath": "trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-vw-tiguan-ii-2-ab-2016-passgenaue-mit-hohem-rand",
-        "ItemDescription.name": "Trimak VW Tiguan 2.Gen ab 2016  Autofußmatten Gummimatten",
-        "ItemDescription.name2": "Trimak  Automatten 3D Gummimatten Fußmatten kompatibel mit  VW Tiguan II (2) ab 2016  passgenaue mit hohem Rand",
-        "VariationCategory.allCategoryIds": "23,234,425,427",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Tiguan",
-            "Category4": "II ( 2016 - 2021 )"
-        },
-        "ItemDescription.description": "<ul>\t<li>Trimak&nbsp; Automatten 3D Gummimatten Fußmatten kompatibel mit&nbsp; VW Tiguan&nbsp; II (2) ab 2016&nbsp; passgenaue mit hohem Rand</li>\t<li><strong><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\">Passend für: VW Tiguan II (2)&nbsp; ab 2016</span></span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "686",
         "VariationSku.sku": "8mm.rot.5m",
         "ItemDescription.urlPath": "gummiband/gummiband-gummikordel-gummilitze-masken-gummiband-schwarz-weiss-3mm-5mm-6mm-8-mm-1-0mm-20mm-30mm-dicke-5m-10m-25m-100m-laenge",
@@ -4924,21 +4773,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "2861",
-        "VariationSku.sku": "Set_GLC_C253",
-        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-mercedes-glc-coupe-c253-2016-2023",
-        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Mercedes GLC Coupe C253 2016 - 2023",
-        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Mercedes GLC Coupe C253 2016 - 2023 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
-        "VariationCategory.allCategoryIds": "23,222,272",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Mercedes",
-            "Category3": "GLC"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Mercedes GLC Coupe C253 2016 - 2023</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "881",
         "VariationSku.sku": "TM_Mokka_B",
         "ItemDescription.urlPath": "trimak-3d-auto-gummimatten-fussmatten-fuer-opel-mokka-b-ab-2021-passgenaue-mit-hohem-rand-c-a-5-cm",
@@ -5050,21 +4884,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1324",
-        "VariationSku.sku": "RL_GLC_X253",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-mercedes-glc-x-253-ab-2015-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit MERCEDES GLC (X 253) ab 2015 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit MERCEDES GLC (X 253) ab 2015 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,222,272",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Mercedes",
-            "Category3": "GLC"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: MERCEDES GLC (X 253) ab 2015</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "2712",
         "VariationSku.sku": "",
         "ItemDescription.urlPath": "",
@@ -5128,6 +4947,250 @@
             "Category5": " 2010–2017)"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;&nbsp;Nissan Micra K13 ( 2010–2017 )</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1494",
+        "VariationSku.sku": "TM_Bora",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-bora-1998-2005-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit VW BORA 1998-2005 Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit VW BORA 1998-2005 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,234,578",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Bora"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW BORA 1998-2005</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1462",
+        "VariationSku.sku": "TM_Golf_4",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-golf-iv-1997-2004-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit VW Golf IV 1997 - 2004 Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit VW Golf IV 1997 - 2004 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,234,404,406",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Golf",
+            "Category4": "Golf 4 (1997 - 2004 )"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf IV &nbsp;(1997 - 2004)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "2837",
+        "VariationSku.sku": "Set_Puma_O",
+        "ItemDescription.urlPath": "fussmatten-obere-kofferraumwanne-auto-set-kompatibel-mit-ford-puma-2019-2024",
+        "ItemDescription.name": "Fußmatten & Obere Kofferraumwanne Auto Set Kompatibel mit Ford Puma 2019 - 2024",
+        "ItemDescription.name2": "3D Fußmatten & Obere Kofferraumwanne Auto Set Kompatibel mit Ford Puma 2019 - 2024 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
+        "VariationCategory.allCategoryIds": "23,143,164",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "Puma"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Ford Puma 2019 - 2024 Obere Kofferraumwanne und Fußmatten</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "2840",
+        "VariationSku.sku": "Set_Ecosport_O",
+        "ItemDescription.urlPath": "3d-fussmatten-obere-kofferraumwanne-auto-set-kompatibel-mit-ford-ecosport-2012-2023",
+        "ItemDescription.name": "3D Fußmatten & Obere Kofferraumwanne Auto Set Kompatibel mit Ford Ecosport 2012 - 2023",
+        "ItemDescription.name2": "3D Fußmatten & Obere Kofferraumwanne Auto Set Kompatibel mit  Ford Ecosport 2012 - 2023 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
+        "VariationCategory.allCategoryIds": "23,143,148",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "EcoSport"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Ford Ecosport 2012 - 2023 Obere Kofferraumwanne und Fußmatten</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "2912",
+        "VariationSku.sku": "Set_Golf_4_HB",
+        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-vw-golf-iv-1997-2004",
+        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit VW Golf IV 1997 - 2004",
+        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mitVW Golf IV 1997 - 2004 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
+        "VariationCategory.allCategoryIds": "23,234,404,406",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Golf",
+            "Category4": "Golf 4 (1997 - 2004 )"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf IV 1997 - 2004</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "2823",
+        "VariationSku.sku": "Set_Focus_4_O",
+        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-ford-focus-4-gen-kombi-obere-2018-2024",
+        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Ford Focus 4.Gen Kombi Obere 2018 - 2024",
+        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Ford Focus 4.Gen Kombi Obere 2018 - 2024 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
+        "VariationCategory.allCategoryIds": "23,143,153,155",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "Focus",
+            "Category4": "4.Gen ( ab 2018 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Ford Focus 4.Gen Kombi Obere 2018 - 2024&nbsp;Kofferraumwanne</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "2838",
+        "VariationSku.sku": "Set_Puma_U",
+        "ItemDescription.urlPath": "fussmatten-untere-kofferraumwanne-auto-set-kompatibel-mit-ford-puma-2019-2024",
+        "ItemDescription.name": "Fußmatten & Untere Kofferraumwanne Auto Set Kompatibel mit Ford Puma 2019 - 2024",
+        "ItemDescription.name2": "3D Fußmatten & Untere Kofferraumwanne Auto Set Kompatibel mit Ford Puma 2019 - 2024 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
+        "VariationCategory.allCategoryIds": "23,143,164",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Ford",
+            "Category3": "Puma"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Ford Puma 2019 - 2024 Untere Kofferraumwanne und Fußmatten</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1493",
+        "VariationSku.sku": "RL_Bora",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-vw-bora-1998-2005-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005  Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,234,578",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Bora"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW BORA 1998-2005&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "712",
+        "VariationSku.sku": "Golf_4",
+        "ItemDescription.urlPath": "auto-fussmatten-fuer-vw-golf-iv-1997-2004-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "VW Golf IV  (1997 - 2004) Autofußmatten Gmmimatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für VW Golf IV  1997-2004 passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,234,404,406",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Golf",
+            "Category4": "Golf 4 (1997 - 2004 )"
+        },
+        "ItemDescription.description": "<ul>\t<li style=\"margin-left: 18pt;\">3D Gummimatten Auto Matten Fussmatten für&nbsp;VW Golf IV&nbsp; 1997-2004&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li style=\"margin-left: 18pt;\"><span style=\"font-size:18px;\"><em><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;VW Golf IV&nbsp; (1997-2004)</span></strong></em></span></li>\t<li style=\"margin-left: 18pt;\">4-teilig (2 x vorn, 2 x hinten)</li>\t<li style=\"margin-left: 18pt;\">Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li style=\"margin-left: 18pt;\">Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li style=\"margin-left: 18pt;\">Geruchs frei</li>\t<li style=\"margin-left: 18pt;\">Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li style=\"margin-left: 18pt;\">Passganeuigkeitszertifikät&nbsp;</li>\t<li style=\"margin-left: 18pt;\">Es verursacht keine Allergien.</li>\t<li style=\"margin-left: 18pt;\">Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li style=\"margin-left: 18pt;\">Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li style=\"margin-left: 18pt;\">Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li style=\"margin-left: 18pt;\">Nicht deformierbar.</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1295",
+        "VariationSku.sku": "RL_Mzd_6_3",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-mazda-6-3-gen-gj-gl-ab-2012-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit MAZDA 6 (3.Gen. GJ/GL)  ab 2012 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit MAZDA 6 (3.Gen. GJ/GL)  ab 2012 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,211,216,217",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Mazda",
+            "Category3": "Mazda 6",
+            "Category4": "3.Gen (2012 - 2021)"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: MAZDA 6 (3.Gen. GJ/GL) &nbsp;ab 2012</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "2861",
+        "VariationSku.sku": "Set_GLC_C253",
+        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-mercedes-glc-coupe-c253-2016-2023",
+        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Mercedes GLC Coupe C253 2016 - 2023",
+        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit Mercedes GLC Coupe C253 2016 - 2023 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
+        "VariationCategory.allCategoryIds": "23,222,272",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Mercedes",
+            "Category3": "GLC"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Mercedes GLC Coupe C253 2016 - 2023</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "812",
+        "VariationSku.sku": "TM_Tiguan_2",
+        "ItemDescription.urlPath": "trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-vw-tiguan-ii-2-ab-2016-passgenaue-mit-hohem-rand",
+        "ItemDescription.name": "Trimak VW Tiguan 2.Gen ab 2016  Autofußmatten Gummimatten",
+        "ItemDescription.name2": "Trimak  Automatten 3D Gummimatten Fußmatten kompatibel mit  VW Tiguan II (2) ab 2016  passgenaue mit hohem Rand",
+        "VariationCategory.allCategoryIds": "23,234,425,427",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Tiguan",
+            "Category4": "II ( 2016 - 2021 )"
+        },
+        "ItemDescription.description": "<ul>\t<li>Trimak&nbsp; Automatten 3D Gummimatten Fußmatten kompatibel mit&nbsp; VW Tiguan&nbsp; II (2) ab 2016&nbsp; passgenaue mit hohem Rand</li>\t<li><strong><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\">Passend für: VW Tiguan II (2)&nbsp; ab 2016</span></span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1558",
+        "VariationSku.sku": "TM_Swift_6",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-suzuki-swift-6-gen-rz-az-ab-2017-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit SUZUKI Swift 6.Gen RZ/AZ ab 2017 Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit SUZUKI Swift 6.Gen RZ/AZ ab 2017 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,595",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Swift 6.Gen ab 2017"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;SUZUKI Swift 6.Gen RZ/AZ ab 2017</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1334",
+        "VariationSku.sku": "TM_Coutryman",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-mini-countryman-2-generation-seit-2017-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit MINI Countryman 2.Generation (seit 2017) Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit MINI Countryman 2.Generation (seit 2017) Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,224,279",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Mini",
+            "Category3": "Countryman"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;MINI Countryman 2.Generation (seit 2017)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1563",
+        "VariationSku.sku": "RL_Swift_6",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-suzuki-swift-6-gen-ab-2017-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit SUZUKI Swift 6.Gen ab 2017 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit SUZUKI Swift 6.Gen ab 2017 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,595",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Swift 6.Gen ab 2017"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;SUZUKI Swift 6.Gen ab 2017 (RZ/AZ)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1324",
+        "VariationSku.sku": "RL_GLC_X253",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-mercedes-glc-x-253-ab-2015-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit MERCEDES GLC (X 253) ab 2015 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit MERCEDES GLC (X 253) ab 2015 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,222,272",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Mercedes",
+            "Category3": "GLC"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: MERCEDES GLC (X 253) ab 2015</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -17083,22 +17146,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "703",
-        "VariationSku.sku": "Focus_3",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-ford-focus-2010-2014-passgenaue-gummimatten",
-        "ItemDescription.name": "FORD Focus ( 3.Gen. A Series) (2010-2014) Auto Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für FORD Focus 2010-2014  passgenaue Gummimatten mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,143,153,154",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Ford",
-            "Category3": "Focus",
-            "Category4": "3.Gen (2010 - 2018)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für&nbsp;FORD Focus 2010-2014&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><em><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; FORD Focus 2010-2014</span></strong></em></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "697",
         "VariationSku.sku": "A4_2001-08",
         "ItemDescription.urlPath": "3d-gummimatten-auto-matten-fussmatten-fuer-audi-a4-2001-2008-passgenaue-mit-hohem-rand-c-a-5-cm",
@@ -18810,21 +18857,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1493",
-        "VariationSku.sku": "RL_Bora",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-vw-bora-1998-2005-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005  Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,234,578",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Bora"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW BORA 1998-2005&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1523",
         "VariationSku.sku": "RL_500e",
         "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-fiat-500-elektro-500e-autofussmatten-auto-allwetter",
@@ -20129,22 +20161,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "712",
-        "VariationSku.sku": "Golf_4",
-        "ItemDescription.urlPath": "auto-fussmatten-fuer-vw-golf-iv-1997-2004-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "VW Golf IV  (1997 - 2004) Autofußmatten Gmmimatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für VW Golf IV  1997-2004 passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,234,404,406",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Golf",
-            "Category4": "Golf 4 (1997 - 2004 )"
-        },
-        "ItemDescription.description": "<ul>\t<li style=\"margin-left: 18pt;\">3D Gummimatten Auto Matten Fussmatten für&nbsp;VW Golf IV&nbsp; 1997-2004&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li style=\"margin-left: 18pt;\"><span style=\"font-size:18px;\"><em><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;VW Golf IV&nbsp; (1997-2004)</span></strong></em></span></li>\t<li style=\"margin-left: 18pt;\">4-teilig (2 x vorn, 2 x hinten)</li>\t<li style=\"margin-left: 18pt;\">Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li style=\"margin-left: 18pt;\">Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li style=\"margin-left: 18pt;\">Geruchs frei</li>\t<li style=\"margin-left: 18pt;\">Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li style=\"margin-left: 18pt;\">Passganeuigkeitszertifikät&nbsp;</li>\t<li style=\"margin-left: 18pt;\">Es verursacht keine Allergien.</li>\t<li style=\"margin-left: 18pt;\">Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li style=\"margin-left: 18pt;\">Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li style=\"margin-left: 18pt;\">Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li style=\"margin-left: 18pt;\">Nicht deformierbar.</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "582",
         "VariationSku.sku": "O_Croslandx",
         "ItemDescription.urlPath": "3d-gummimatten-auto-matten-fussmatten-fuer-opel-crossland-x-passgenaue-mit-hohem-rand-c-a-5-cm",
@@ -20907,22 +20923,6 @@
             "Category3": "Niro"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: Kia Niro Hybrid&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1295",
-        "VariationSku.sku": "RL_Mzd_6_3",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-mazda-6-3-gen-gj-gl-ab-2012-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit MAZDA 6 (3.Gen. GJ/GL)  ab 2012 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit MAZDA 6 (3.Gen. GJ/GL)  ab 2012 Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,211,216,217",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Mazda",
-            "Category3": "Mazda 6",
-            "Category4": "3.Gen (2012 - 2021)"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: MAZDA 6 (3.Gen. GJ/GL) &nbsp;ab 2012</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
