@@ -1,19 +1,113 @@
 [
     {
-        "Item.id": "640",
-        "VariationSku.sku": "",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-xceed-ab2019-passgenaue-gummimatten",
-        "ItemDescription.name": "3D Auto  Fussmatten kompatibel mit KIA XCEED ab 2019  passgenaue Gummimatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für KIA XCEED  ab 2019    passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,188,189,571",
+        "Item.id": "1494",
+        "VariationSku.sku": "TM_Bora",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-bora-1998-2005-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit VW BORA 1998-2005 Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit VW BORA 1998-2005 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,234,578",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Ceed",
-            "Category4": "X-Ceed"
+            "Category2": "Volkswagen",
+            "Category3": "Bora"
         },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA XCEED &nbsp;ab 2019&nbsp; &nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA XCEED ab 2019</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": ""
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW BORA 1998-2005</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1462",
+        "VariationSku.sku": "TM_Golf_4",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-golf-iv-1997-2004-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit VW Golf IV 1997 - 2004 Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit VW Golf IV 1997 - 2004 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,234,404,406",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Golf",
+            "Category4": "Golf 4 (1997 - 2004 )"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf IV &nbsp;(1997 - 2004)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1271",
+        "VariationSku.sku": "TM_i10_3",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-hyundai-i10-3-gen-ab-2019-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit HYUNDAI i10 (3.Gen) ab 2019 Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit HYUNDAI i10 (3.Gen) ab 2019 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,172,173,174",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Hyundai",
+            "Category3": "i10",
+            "Category4": "3.Gen ( 2019 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: HYUNDAI&nbsp;i10&nbsp;(3.Gen) ab 2019</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "2912",
+        "VariationSku.sku": "Set_Golf_4_HB",
+        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-vw-golf-iv-1997-2004",
+        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit VW Golf IV 1997 - 2004",
+        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mitVW Golf IV 1997 - 2004 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
+        "VariationCategory.allCategoryIds": "23,234,404,406",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Golf",
+            "Category4": "Golf 4 (1997 - 2004 )"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf IV 1997 - 2004</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "712",
+        "VariationSku.sku": "Golf_4",
+        "ItemDescription.urlPath": "auto-fussmatten-fuer-vw-golf-iv-1997-2004-passgenaue-mit-hohem-rand-c-a-5-cm",
+        "ItemDescription.name": "VW Golf IV  (1997 - 2004) Autofußmatten Gmmimatten",
+        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für VW Golf IV  1997-2004 passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,234,404,406",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Golf",
+            "Category4": "Golf 4 (1997 - 2004 )"
+        },
+        "ItemDescription.description": "<ul>\t<li style=\"margin-left: 18pt;\">3D Gummimatten Auto Matten Fussmatten für&nbsp;VW Golf IV&nbsp; 1997-2004&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li style=\"margin-left: 18pt;\"><span style=\"font-size:18px;\"><em><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;VW Golf IV&nbsp; (1997-2004)</span></strong></em></span></li>\t<li style=\"margin-left: 18pt;\">4-teilig (2 x vorn, 2 x hinten)</li>\t<li style=\"margin-left: 18pt;\">Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li style=\"margin-left: 18pt;\">Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li style=\"margin-left: 18pt;\">Geruchs frei</li>\t<li style=\"margin-left: 18pt;\">Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li style=\"margin-left: 18pt;\">Passganeuigkeitszertifikät&nbsp;</li>\t<li style=\"margin-left: 18pt;\">Es verursacht keine Allergien.</li>\t<li style=\"margin-left: 18pt;\">Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li style=\"margin-left: 18pt;\">Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li style=\"margin-left: 18pt;\">Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li style=\"margin-left: 18pt;\">Nicht deformierbar.</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "1493",
+        "VariationSku.sku": "RL_Bora",
+        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-vw-bora-1998-2005-autofussmatten-auto-allwetter",
+        "ItemDescription.name": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005 Autofußmatten Auto Allwetter ",
+        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005  Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
+        "VariationCategory.allCategoryIds": "23,234,578",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Bora"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW BORA 1998-2005&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "669",
+        "VariationSku.sku": "H_i10_3",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-i10-3-gen-ab-2019-passgenaue-gummimatten",
+        "ItemDescription.name": "HYUNDAI  i10  (3.Gen) ab 2019  Gummimatten Autofußmatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI  i10  (3.Gen) ab 2019 passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,172,173,174",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Hyundai",
+            "Category3": "i10",
+            "Category4": "3.Gen ( 2019 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI&nbsp; i10&nbsp; (3.Gen) ab 2019&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; HYUNDAI&nbsp; i10&nbsp; ( 3.Gen ) ab 2019&nbsp;</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
     },
     {
         "Item.id": "1294",
@@ -48,22 +142,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "790",
-        "VariationSku.sku": "KF_K_Sportage_4",
-        "ItemDescription.urlPath": "3d-passgenaue-kofferraummatte-kompatibel-mit-kia-sportage-4-gen-ab-2016",
-        "ItemDescription.name": "KIA SPORTAGE 4 .Gen (ab 2016) Kofferraummatte Kofferraumwanne",
-        "ItemDescription.name2": "3D passgenaue Kofferraummatte kompatibel mit KIA SPORTAGE 4 .Gen (ab  2016)   Gummimatte Allergiefrei Umweltfreundlich",
-        "VariationCategory.allCategoryIds": "23,188,201,204",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Sportage",
-            "Category4": "4.Gen ( 2016 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">3D passgenaue Kofferraummatte&nbsp; kompatibel mit &nbsp;KIA SPORTAGE 4 .Gen (ab&nbsp; 2016)&nbsp;</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\"><span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\"><span class=\"a-list-item\" style=\"box-sizing: border-box;\">Passend für: </span>KIA SPORTAGE 4 .Gen (ab&nbsp; 2016)&nbsp;</span></strong></span></li>\t<li style=\"margin-left: 36pt;\">Unter Internationalen höchsten Qualitats und Hygienestandardards hergestellt.</li>\t<li style=\"margin-left: 36pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li style=\"margin-left: 36pt;\">Es verursacht keine Allergien.</li>\t<li style=\"margin-left: 36pt;\">Nicht deformierbar-</li>\t<li style=\"margin-left: 36pt;\">Es wird&nbsp;aus ökologischem, naturfreundlichem und recycelbarem Material mit einer hohen Beständigkeit von - 50 ° C bis + 80 ° C hergestellt.</li>\t<li style=\"margin-left: 36pt;\">Rutschfeste Oberfläche.</li>\t<li style=\"margin-left: 36pt;\">Befestigungsösen die das Rutschen Verhindern</li>\t<li style=\"margin-left: 36pt;\">Es wurde speziell für Ihr Model angefertigt.</li>\t<li style=\"margin-left: 36pt;\">Es hat 2 ~ 4 cm hohe Poolflächen.</li>\t<li style=\"margin-left: 36pt;\">Schützt den Tepichboden Ihres Fahrzeugs vor Schmutz&nbsp; Wasser, Staub und Schlamm</li>\t<li style=\"margin-left: 36pt;\">Pflegeleächte Reinigung</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "2853",
         "VariationSku.sku": "Set_XCeed_U",
         "ItemDescription.urlPath": "3d-fussmatten-untere-kofferraumwanne-auto-set-kompatibel-mit-kia-xceed-2019-2024-benzin-und-diesel",
@@ -77,6 +155,38 @@
             "Category4": "X-Ceed"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Kia XCEED 2019 - 2024 Benzin und Diesel&nbsp;Untere Kofferraumwanne und Fußmatten</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "640",
+        "VariationSku.sku": "",
+        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-kia-xceed-ab2019-passgenaue-gummimatten",
+        "ItemDescription.name": "3D Auto  Fussmatten kompatibel mit KIA XCEED ab 2019  passgenaue Gummimatten",
+        "ItemDescription.name2": "3D Auto  Fussmatten für KIA XCEED  ab 2019    passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,188,189,571",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Kia",
+            "Category3": "Ceed",
+            "Category4": "X-Ceed"
+        },
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA XCEED &nbsp;ab 2019&nbsp; &nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li>Passend für:&nbsp; <span style=\"color:#FF0000;\">KIA XCEED ab 2019</span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": ""
+    },
+    {
+        "Item.id": "790",
+        "VariationSku.sku": "KF_K_Sportage_4",
+        "ItemDescription.urlPath": "3d-passgenaue-kofferraummatte-kompatibel-mit-kia-sportage-4-gen-ab-2016",
+        "ItemDescription.name": "KIA SPORTAGE 4 .Gen (ab 2016) Kofferraummatte Kofferraumwanne",
+        "ItemDescription.name2": "3D passgenaue Kofferraummatte kompatibel mit KIA SPORTAGE 4 .Gen (ab  2016)   Gummimatte Allergiefrei Umweltfreundlich",
+        "VariationCategory.allCategoryIds": "23,188,201,204",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Kia",
+            "Category3": "Sportage",
+            "Category4": "4.Gen ( 2016 ---)"
+        },
+        "ItemDescription.description": "<ul>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\">3D passgenaue Kofferraummatte&nbsp; kompatibel mit &nbsp;KIA SPORTAGE 4 .Gen (ab&nbsp; 2016)&nbsp;</li>\t<li style=\"box-sizing: border-box; list-style: disc; overflow-wrap: break-word; margin: 0px;\"><span style=\"font-size:20px;\"><strong><span style=\"color:#FF0000;\"><span class=\"a-list-item\" style=\"box-sizing: border-box;\">Passend für: </span>KIA SPORTAGE 4 .Gen (ab&nbsp; 2016)&nbsp;</span></strong></span></li>\t<li style=\"margin-left: 36pt;\">Unter Internationalen höchsten Qualitats und Hygienestandardards hergestellt.</li>\t<li style=\"margin-left: 36pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li style=\"margin-left: 36pt;\">Es verursacht keine Allergien.</li>\t<li style=\"margin-left: 36pt;\">Nicht deformierbar-</li>\t<li style=\"margin-left: 36pt;\">Es wird&nbsp;aus ökologischem, naturfreundlichem und recycelbarem Material mit einer hohen Beständigkeit von - 50 ° C bis + 80 ° C hergestellt.</li>\t<li style=\"margin-left: 36pt;\">Rutschfeste Oberfläche.</li>\t<li style=\"margin-left: 36pt;\">Befestigungsösen die das Rutschen Verhindern</li>\t<li style=\"margin-left: 36pt;\">Es wurde speziell für Ihr Model angefertigt.</li>\t<li style=\"margin-left: 36pt;\">Es hat 2 ~ 4 cm hohe Poolflächen.</li>\t<li style=\"margin-left: 36pt;\">Schützt den Tepichboden Ihres Fahrzeugs vor Schmutz&nbsp; Wasser, Staub und Schlamm</li>\t<li style=\"margin-left: 36pt;\">Pflegeleächte Reinigung</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -806,22 +916,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1271",
-        "VariationSku.sku": "TM_i10_3",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-hyundai-i10-3-gen-ab-2019-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit HYUNDAI i10 (3.Gen) ab 2019 Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit HYUNDAI i10 (3.Gen) ab 2019 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,172,173,174",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Hyundai",
-            "Category3": "i10",
-            "Category4": "3.Gen ( 2019 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: HYUNDAI&nbsp;i10&nbsp;(3.Gen) ab 2019</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1272",
         "VariationSku.sku": "TM_i20_2",
         "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-hyundai-i20-2-gen-2015-2020-auto-allwetter-gummimatten",
@@ -1446,22 +1540,6 @@
             "Category4": "1. Gen (2013 - 2019 )"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;RENAULT CAPTUR 1.Gen (2013 - 2019)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "2912",
-        "VariationSku.sku": "Set_Golf_4_HB",
-        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-vw-golf-iv-1997-2004",
-        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit VW Golf IV 1997 - 2004",
-        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mitVW Golf IV 1997 - 2004 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
-        "VariationCategory.allCategoryIds": "23,234,404,406",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Golf",
-            "Category4": "Golf 4 (1997 - 2004 )"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf IV 1997 - 2004</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -3793,22 +3871,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1462",
-        "VariationSku.sku": "TM_Golf_4",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-golf-iv-1997-2004-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit VW Golf IV 1997 - 2004 Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit VW Golf IV 1997 - 2004 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,234,404,406",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Golf",
-            "Category4": "Golf 4 (1997 - 2004 )"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf IV &nbsp;(1997 - 2004)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1425",
         "VariationSku.sku": "TM_Rapid",
         "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-skoda-rapid-ab-2012-auto-allwetter-gummimatten",
@@ -4572,21 +4634,6 @@
             "Category3": "Cruse"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;Chevrolet Cruze 2008-2016 (J300) Auto Allwetter Gummimatten</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "1494",
-        "VariationSku.sku": "TM_Bora",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-bora-1998-2005-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit VW BORA 1998-2005 Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit VW BORA 1998-2005 Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,234,578",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Bora"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW BORA 1998-2005</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -14293,22 +14340,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "669",
-        "VariationSku.sku": "H_i10_3",
-        "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-hyundai-i10-3-gen-ab-2019-passgenaue-gummimatten",
-        "ItemDescription.name": "HYUNDAI  i10  (3.Gen) ab 2019  Gummimatten Autofußmatten",
-        "ItemDescription.name2": "3D Auto  Fussmatten für HYUNDAI  i10  (3.Gen) ab 2019 passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,172,173,174",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Hyundai",
-            "Category3": "i10",
-            "Category4": "3.Gen ( 2019 ---)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für HYUNDAI&nbsp; i10&nbsp; (3.Gen) ab 2019&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><strong><span style=\"color:#FF0000;\">Passend für:&nbsp; HYUNDAI&nbsp; i10&nbsp; ( 3.Gen ) ab 2019&nbsp;</span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Pasganeuigkeitszertifikät&nbsp;</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "653",
         "VariationSku.sku": "P_508_1",
         "ItemDescription.urlPath": "3d-auto-fussmatten-kompatibel-mit-peugeot-508-1-gen-2010-2018-passgenaue-gummimatten",
@@ -20313,21 +20344,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1493",
-        "VariationSku.sku": "RL_Bora",
-        "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-vw-bora-1998-2005-autofussmatten-auto-allwetter",
-        "ItemDescription.name": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005 Autofußmatten Auto Allwetter ",
-        "ItemDescription.name2": "Rizline Gummimatten kompatibel mit VW BORA 1998-2005  Passgenau Fussmatten  Auto Zubehör 1. Und 2. Reihe TPE Allwetter Geruchlos Rutschfest Vorne und Hinten",
-        "VariationCategory.allCategoryIds": "23,234,578",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Bora"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW BORA 1998-2005&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1295",
         "VariationSku.sku": "RL_Mzd_6_3",
         "ItemDescription.urlPath": "rizline-gummimatten-kompatibel-mit-mazda-6-3-gen-gj-gl-ab-2012-autofussmatten-auto-allwetter",
@@ -20550,22 +20566,6 @@
             "Category4": "B ( Seit 2021 )"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;OPEL Mokka B ab 2021</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "712",
-        "VariationSku.sku": "Golf_4",
-        "ItemDescription.urlPath": "auto-fussmatten-fuer-vw-golf-iv-1997-2004-passgenaue-mit-hohem-rand-c-a-5-cm",
-        "ItemDescription.name": "VW Golf IV  (1997 - 2004) Autofußmatten Gmmimatten",
-        "ItemDescription.name2": "3D Gummimatten Auto Matten Fussmatten für VW Golf IV  1997-2004 passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,234,404,406",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Golf",
-            "Category4": "Golf 4 (1997 - 2004 )"
-        },
-        "ItemDescription.description": "<ul>\t<li style=\"margin-left: 18pt;\">3D Gummimatten Auto Matten Fussmatten für&nbsp;VW Golf IV&nbsp; 1997-2004&nbsp;&nbsp;passgenaue mit hohem rand c.a 5 cm</li>\t<li style=\"margin-left: 18pt;\"><span style=\"font-size:18px;\"><em><strong><span style=\"color:#FF0000;\">Passend für:&nbsp;&nbsp;VW Golf IV&nbsp; (1997-2004)</span></strong></em></span></li>\t<li style=\"margin-left: 18pt;\">4-teilig (2 x vorn, 2 x hinten)</li>\t<li style=\"margin-left: 18pt;\">Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li style=\"margin-left: 18pt;\">Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li style=\"margin-left: 18pt;\">Geruchs frei</li>\t<li style=\"margin-left: 18pt;\">Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li style=\"margin-left: 18pt;\">Passganeuigkeitszertifikät&nbsp;</li>\t<li style=\"margin-left: 18pt;\">Es verursacht keine Allergien.</li>\t<li style=\"margin-left: 18pt;\">Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li>\t<li style=\"margin-left: 18pt;\">Unter Internationalen höchsten Qualitäts und Hygienestandardards hergestellt.</li>\t<li style=\"margin-left: 18pt;\">Produziert im Mitgliedsland der Europäischen Zollunion.</li>\t<li style=\"margin-left: 18pt;\">Es verfügt über ein Gesundheits- und Hygienezertifikät</li>\t<li style=\"margin-left: 18pt;\">Nicht deformierbar.</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
