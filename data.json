@@ -1,51 +1,50 @@
 [
     {
-        "Item.id": "1129",
-        "VariationSku.sku": "TM_1er_F20",
-        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-bmw-1er-f20-f21-2011-2019-auto-allwetter-gummimatten",
-        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit BMW 1ér F20 & F21 (2011-2019) Auto Allwetter Gummimatten",
-        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit BMW 1ér F20 & F21 (2011-2019)  Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
-        "VariationCategory.allCategoryIds": "23,74,77,80",
+        "Item.id": "808",
+        "VariationSku.sku": "TM_Golf_7",
+        "ItemDescription.urlPath": "trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-vw-golf-7-golf-7-variant-2012-2020-passgenaue-mit-hohem-rand",
+        "ItemDescription.name": "Trimak Golf 7 (2012 - 2020)  Autofußmatten Gummimatten ",
+        "ItemDescription.name2": "Trimak 3D Gummimatten Auto Matten Fußmatten kompatibel mit VW Golf 7 & Golf 7 Variant (2012-2020) passgenaue mit hohem Rand ",
+        "VariationCategory.allCategoryIds": "23,234,404,409",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "BMW",
-            "Category3": "1 Serie",
-            "Category4": "F20 2011 - 2019"
+            "Category2": "Volkswagen",
+            "Category3": "Golf",
+            "Category4": "Golf 7 ( 2013 - 2020 )"
         },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: BMW 1ér F20 &amp; F21 (2011-2019)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "ItemDescription.description": "<ul>\t<li>Trimak Autoaccessoires 3D Autofußmatten für&nbsp;VW Golf 7 &amp; Golf 7 Variant (2012-2020) passgenaue&nbsp; Gummimatten, Automatten mit hohem rand c.a 5 cm</li>\t<li><span style=\"color:#FF0000;\"><span style=\"font-size:20px;\"><strong>Passend für:&nbsp;</strong></span></span>&nbsp;<strong><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\">VW Golf 7 &amp; Golf 7 Variant (2012-2020</span></span>)</strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "2712",
-        "VariationSku.sku": "",
-        "ItemDescription.urlPath": "",
-        "ItemDescription.name": "Set Autofußmatten und Kofferraummatte kompatibel mit  VW Golf 7 2013 - 2021",
-        "ItemDescription.name2": "Set Autofußmatten und Kofferraummatte kompatibel mit VW Golf 7 2013 - 2021 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
-        "VariationCategory.allCategoryIds": "22,23,234,404,409",
-        "VariationCategory.allCategories": {
-            "Category1": "Autoteile & Zubehör",
-            "Category2": "Fussmatten",
-            "Category3": "Volkswagen",
-            "Category4": "Golf",
-            "Category5": "Golf 7 ( 2013 - 2020 )"
-        },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf 7 2013 - 2021</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": ""
-    },
-    {
-        "Item.id": "2821",
-        "VariationSku.sku": "Set_1er_F20",
-        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-bmw-1er-f20-2011-2019",
-        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit BMW 1er F20 2011 - 2019",
-        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit BMW 1er F20 2011 - 2019 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
-        "VariationCategory.allCategoryIds": "23,74,77,80",
+        "Item.id": "929",
+        "VariationSku.sku": "TM_Picanto_2",
+        "ItemDescription.urlPath": "kia-picanto-2-gen-2011-2017-gummimatten-autofussmatten",
+        "ItemDescription.name": "KIA Picanto  2.Gen (2011 - 2017)  Gummimatten. Autofußmatten",
+        "ItemDescription.name2": "Trimak  Autofußmatten für KIA Picanto 2.Gen (2011 - 2017)    passgenaue mit hohem rand c.a 5 cm",
+        "VariationCategory.allCategoryIds": "23,188,193,497",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "BMW",
-            "Category3": "1 Serie",
-            "Category4": "F20 2011 - 2019"
+            "Category2": "Kia",
+            "Category3": "Picanto",
+            "Category4": "2. Gen. (2011 - 2017)"
         },
-        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;BMW 1er F20 2011 - 2019</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA Picanto 2.Gen (2011 - 2017)&nbsp;&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:22px;\"><strong><span style=\"color:#ff0000;\">Passend für:&nbsp; KIA Picanto 2.Gen (2011 - 2017)</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "815",
+        "VariationSku.sku": "TM_VW_Passar_B8",
+        "ItemDescription.urlPath": "trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-vw-passat-b8-ab-2014-passgenaue-mit-hohem-rand",
+        "ItemDescription.name": "TRIMAK VW Passat B8 ab 2014 Autofußmatten Gummimatten",
+        "ItemDescription.name2": "TRIMAK Automatten 3D Gummimatten Fußmatten kompatibel mit  VW Passat B8 ab 2014 passgenaue mit hohem Rand ",
+        "VariationCategory.allCategoryIds": "23,234,415,418",
+        "VariationCategory.allCategories": {
+            "Category1": "Fussmatten",
+            "Category2": "Volkswagen",
+            "Category3": "Passat",
+            "Category4": "B8 ( 2015 - 2021)"
+        },
+        "ItemDescription.description": "<ul>\t<li>TRIMAK Automatten 3D Gummimatten Fußmatten kompatibel mit&nbsp; VW Passat B8 ab 2014 passgenaue mit hohem Rand&nbsp;</li>\t<li><span style=\"color:#FF0000;\"><span style=\"font-size:20px;\"><strong>Passend für:&nbsp;</strong></span></span>&nbsp;<strong><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\">Volkswagen&nbsp;Passat B8 ab 2014&nbsp;</span></span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -66,19 +65,19 @@
         "VariationSku.marketId": ""
     },
     {
-        "Item.id": "815",
-        "VariationSku.sku": "TM_VW_Passar_B8",
-        "ItemDescription.urlPath": "trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-vw-passat-b8-ab-2014-passgenaue-mit-hohem-rand",
-        "ItemDescription.name": "TRIMAK VW Passat B8 ab 2014 Autofußmatten Gummimatten",
-        "ItemDescription.name2": "TRIMAK Automatten 3D Gummimatten Fußmatten kompatibel mit  VW Passat B8 ab 2014 passgenaue mit hohem Rand ",
-        "VariationCategory.allCategoryIds": "23,234,415,418",
+        "Item.id": "1129",
+        "VariationSku.sku": "TM_1er_F20",
+        "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-bmw-1er-f20-f21-2011-2019-auto-allwetter-gummimatten",
+        "ItemDescription.name": "Trimak Autofußmatten kompatibel mit BMW 1ér F20 & F21 (2011-2019) Auto Allwetter Gummimatten",
+        "ItemDescription.name2": "Trimak Passgenau 3D Fussmatten kompatibel mit BMW 1ér F20 & F21 (2011-2019)  Auto Zubehör 1. Und 2. Reihe Gummimatten Autos TPE Allwetter Geruchlos Rutschfest Vorne und Hinten Schwartz",
+        "VariationCategory.allCategoryIds": "23,74,77,80",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Passat",
-            "Category4": "B8 ( 2015 - 2021)"
+            "Category2": "BMW",
+            "Category3": "1 Serie",
+            "Category4": "F20 2011 - 2019"
         },
-        "ItemDescription.description": "<ul>\t<li>TRIMAK Automatten 3D Gummimatten Fußmatten kompatibel mit&nbsp; VW Passat B8 ab 2014 passgenaue mit hohem Rand&nbsp;</li>\t<li><span style=\"color:#FF0000;\"><span style=\"font-size:20px;\"><strong>Passend für:&nbsp;</strong></span></span>&nbsp;<strong><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\">Volkswagen&nbsp;Passat B8 ab 2014&nbsp;</span></span></strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: BMW 1ér F20 &amp; F21 (2011-2019)</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
     },
     {
@@ -99,20 +98,37 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "808",
-        "VariationSku.sku": "TM_Golf_7",
-        "ItemDescription.urlPath": "trimak-automatten-3d-gummimatten-fussmatten-kompatibel-mit-vw-golf-7-golf-7-variant-2012-2020-passgenaue-mit-hohem-rand",
-        "ItemDescription.name": "Trimak Golf 7 (2012 - 2020)  Autofußmatten Gummimatten ",
-        "ItemDescription.name2": "Trimak 3D Gummimatten Auto Matten Fußmatten kompatibel mit VW Golf 7 & Golf 7 Variant (2012-2020) passgenaue mit hohem Rand ",
-        "VariationCategory.allCategoryIds": "23,234,404,409",
+        "Item.id": "2821",
+        "VariationSku.sku": "Set_1er_F20",
+        "ItemDescription.urlPath": "3d-fussmatten-kofferraumwanne-auto-set-kompatibel-mit-bmw-1er-f20-2011-2019",
+        "ItemDescription.name": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit BMW 1er F20 2011 - 2019",
+        "ItemDescription.name2": "3D Fußmatten & Kofferraumwanne Auto Set Kompatibel mit BMW 1er F20 2011 - 2019 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
+        "VariationCategory.allCategoryIds": "23,74,77,80",
         "VariationCategory.allCategories": {
             "Category1": "Fussmatten",
-            "Category2": "Volkswagen",
-            "Category3": "Golf",
-            "Category4": "Golf 7 ( 2013 - 2020 )"
+            "Category2": "BMW",
+            "Category3": "1 Serie",
+            "Category4": "F20 2011 - 2019"
         },
-        "ItemDescription.description": "<ul>\t<li>Trimak Autoaccessoires 3D Autofußmatten für&nbsp;VW Golf 7 &amp; Golf 7 Variant (2012-2020) passgenaue&nbsp; Gummimatten, Automatten mit hohem rand c.a 5 cm</li>\t<li><span style=\"color:#FF0000;\"><span style=\"font-size:20px;\"><strong>Passend für:&nbsp;</strong></span></span>&nbsp;<strong><span style=\"font-size:20px;\"><span style=\"color:#FF0000;\">VW Golf 7 &amp; Golf 7 Variant (2012-2020</span></span>)</strong></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;BMW 1er F20 2011 - 2019</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
         "VariationSku.marketId": "162"
+    },
+    {
+        "Item.id": "2712",
+        "VariationSku.sku": "",
+        "ItemDescription.urlPath": "",
+        "ItemDescription.name": "Set Autofußmatten und Kofferraummatte kompatibel mit  VW Golf 7 2013 - 2021",
+        "ItemDescription.name2": "Set Autofußmatten und Kofferraummatte kompatibel mit VW Golf 7 2013 - 2021 Auto Allwetter Zubehör Gummimatten Kofferraumwanne Autos TPE Allwetter Geruchlos Rutschfest",
+        "VariationCategory.allCategoryIds": "22,23,234,404,409",
+        "VariationCategory.allCategories": {
+            "Category1": "Autoteile & Zubehör",
+            "Category2": "Fussmatten",
+            "Category3": "Volkswagen",
+            "Category4": "Golf",
+            "Category5": "Golf 7 ( 2013 - 2020 )"
+        },
+        "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für:&nbsp;VW Golf 7 2013 - 2021</span></strong></span></li>\t<li><strong>Automatten und Kofferraumwanne passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten&nbsp;und Kofferraummatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Trimak Automatten und Kofferraummatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
+        "VariationSku.marketId": ""
     },
     {
         "Item.id": "2830",
@@ -6058,22 +6074,6 @@
             "Category4": "2. Gen. (2011 - 2017)"
         },
         "ItemDescription.description": "<ul>\t<li><span style=\"font-size:20px;\"><strong><span style=\"color:#ff0000;\">Passend Für: KIA Picanto 2.Gen (2011 - 2017)&nbsp;</span></strong></span></li>\t<li><strong>Automatten passt sich perfekt an den Boden Ihres Autos an, dank der Herstellung von 3D-Laserscanning-Technologie.</strong></li>\t<li><strong>Automatten bestehen zu 100 % aus recycelbarem TPE-Material. Die Automatte ist beständig bis -50 und 75 Grad Celsius.</strong></li>\t<li><strong>Automatten mit festem und hohem Rand verhindern, dass alle Arten von Flüssigkeiten vom Bodenteppich aufgenommen werden, und&nbsp; das Fahrzeug bei allen Wetterbedingungen schützen. Dank seines vollständig kompatiblen Designs und Materials bietet es eine rutschfeste und sichere Fahrt.</strong></li>\t<li><strong>Die strukturierte, rutschfeste Oberfläche lässt sich leicht saugen oder mit Wasser abspritzen. Es ist sehr einfach zu installieren. Da es aus sehr weichem und natürlichem TPE-Material hergestellt wird, muss es bis zu&nbsp; 48 Stunden im Auto liegen damit es die Form des Autobodens annimmt.</strong></li>\t<li><strong>TPE Autofußmatten Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</strong></li>\t<li><strong>Geruchlos.</strong></li>\t<li><strong>Einfache Montage.</strong></li>\t<li><strong>Wasserdicht.</strong></li>\t<li><strong>Patentiertes Design.</strong></li>\t<li><strong>Rundumschutz durch hohen 3D Rand (ca. 4cm)</strong></li></ul>",
-        "VariationSku.marketId": "162"
-    },
-    {
-        "Item.id": "929",
-        "VariationSku.sku": "TM_Picanto_2",
-        "ItemDescription.urlPath": "kia-picanto-2-gen-2011-2017-gummimatten-autofussmatten",
-        "ItemDescription.name": "KIA Picanto  2.Gen (2011 - 2017)  Gummimatten. Autofußmatten",
-        "ItemDescription.name2": "Trimak  Autofußmatten für KIA Picanto 2.Gen (2011 - 2017)    passgenaue mit hohem rand c.a 5 cm",
-        "VariationCategory.allCategoryIds": "23,188,193,497",
-        "VariationCategory.allCategories": {
-            "Category1": "Fussmatten",
-            "Category2": "Kia",
-            "Category3": "Picanto",
-            "Category4": "2. Gen. (2011 - 2017)"
-        },
-        "ItemDescription.description": "<ul>\t<li>3D Gummimatten Auto Matten Fussmatten für KIA Picanto 2.Gen (2011 - 2017)&nbsp;&nbsp; passgenaue mit hohem rand c.a 5 cm</li>\t<li><span style=\"font-size:22px;\"><strong><span style=\"color:#ff0000;\">Passend für:&nbsp; KIA Picanto 2.Gen (2011 - 2017)</span></strong></span></li>\t<li>4-teilig (2 x vorn, 2 x hinten)</li>\t<li>Hergestellt aus rutschfestem, flexiblem, hochwertigem Material für eine lange Lebensdauer bei allen Wetterbedingungen</li>\t<li>Schützt den Teppich des Autos, vor Schlamm, Tierkot, Salzablagerungen, Öl, Wasser und Schmutz.</li>\t<li>Geruchs frei</li>\t<li>Es besteht aus ökologischem, naturfreundlichem und recycelbarem Material.</li>\t<li>Es verfügt über ein Gesundheits- und Hygienezertifikat</li>\t<li>Es verursacht keine Allergien.</li>\t<li>Durch die spezielle Verarbeitung der linken Fußstütze ist für die Fahrsicherheit gesorgt</li></ul>",
         "VariationSku.marketId": "162"
     },
     {
