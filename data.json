@@ -1537,19 +1537,6 @@
         "VariationSku.marketId": "162"
     },
     {
-        "Item.id": "1552",
-        "VariationSku.sku": "Lager_Ohne_Office m2",
-        "ItemDescription.urlPath": "lager-miete-ohne-office-m2",
-        "ItemDescription.name": "Lager Miete mit Office m2 September",
-        "ItemDescription.name2": "",
-        "VariationCategory.allCategoryIds": "590",
-        "VariationCategory.allCategories": {
-            "Category1": "Lager"
-        },
-        "ItemDescription.description": "",
-        "VariationSku.marketId": "162"
-    },
-    {
         "Item.id": "1472",
         "VariationSku.sku": "TM_Passat_B7",
         "ItemDescription.urlPath": "trimak-autofussmatten-kompatibel-mit-vw-passat-b7-2011-2014-auto-allwetter-gummimatten",
